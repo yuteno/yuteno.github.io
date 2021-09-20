@@ -18,8 +18,8 @@ I'm Yosuke Ueno, a third-year Ph.D. student in Computer Science at the Universit
 
 Research Interest
 ======
-- Quantum computer architecture
 - Single flux quantum (SFQ) logic
+- Quantum computer architecture
 - Quantum error correction
   - Superconducting decoder for surface code
 
