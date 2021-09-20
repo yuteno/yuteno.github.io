@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yosuke Ueno, a third-year Ph.D. student in Computer Science at the University of Tokyo ([Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml)), advised by Prof. [Masaaki Kondo](https://sites.google.com/view/kondo-lab/kondo?authuser=0) (Keio University) and Prof. [Hiroshi Nakamura](https://sites.google.com/g.ecc.u-tokyo.ac.jp/nakamura-en).
+I'm Yosuke Ueno, a third-year Ph.D. student in Computer Science at the University of Tokyo ([Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml)), advised by Prof. [Masaaki Kondo](https://sites.google.com/view/kondo-lab/kondo?authuser=0) (Keio University) and Prof. [Hiroshi Nakamura](https://sites.google.com/g.ecc.u-tokyo.ac.jp/nakamura-en). I am a member of the [Nakamura-Takase Lab](http://www.hal.ipc.i.u-tokyo.ac.jp/).
 
 
 
@@ -18,9 +18,9 @@ I'm Yosuke Ueno, a third-year Ph.D. student in Computer Science at the Universit
 
 Research Interest
 ======
-- Single flux quantum (SFQ) logic
+- Cryogenic computing using Single flux quantum (SFQ) logic
 - Quantum computer architecture
-- Quantum error correction
+- Practical quantum error correction
   - Superconducting decoder for surface code
 
 News
