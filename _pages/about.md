@@ -25,3 +25,4 @@ Research Interest
 
 News
 ======
+- [October 28, 2021] Our new paper "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery" is accepted by HPCA 2022 .

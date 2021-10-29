@@ -25,6 +25,10 @@ author_profile: true
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code",
    <br>58th IEEE/ACM Design Automation Conference (DAC), 2021. (to appear) [[arxiv]](https://arxiv.org/abs/2103.14209)
+  1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
+   <br> "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery",
+   <br>28th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2022. (to appear)
+
 
 ## Domestic Conferences (in Japanese)
   1. <u>上野洋典</u>, 東耕平, 近藤正章,
