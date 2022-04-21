@@ -8,21 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yosuke Ueno, a third-year Ph.D. student in Computer Science at the University of Tokyo ([Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml)), advised by Prof. [Masaaki Kondo](https://sites.google.com/view/kondo-lab/kondo?authuser=0) (Keio University) and Prof. [Hiroshi Nakamura](https://sites.google.com/g.ecc.u-tokyo.ac.jp/nakamura-en). I am a member of the [Nakamura-Takase Lab](http://www.hal.ipc.i.u-tokyo.ac.jp/).
-
-
-
+I'm Yosuke Ueno, a postdoc researcher (JSPS-PD) of [Nakamura-Takase Lab](http://www.hal.ipc.i.u-tokyo.ac.jp/) at the University of Tokyo ([Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml)). I'm also a visiting researcher of [Kondo-Lab](https://sites.google.com/view/kondo-lab/kondo?authuser=0) at Keio University.
 
 
 
 
 Research Interest
 ======
-- Cryogenic computing using Single flux quantum (SFQ) logic
+- Cryogenic computing using single flux quantum (SFQ) logic
 - Quantum computer architecture
 - Practical quantum error correction
   - Superconducting decoder for surface code
 
 News
 ======
-- [October 28, 2021] Our new paper "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery" is accepted by HPCA 2022 .
+- [April 1, 2022] The press release about our HPCA2022 paper is now opened ([link](https://www.keio.ac.jp/ja/press-releases/2022/4/1/28-122769/) in Japanese).
+- [October 28, 2021] Our new paper "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery" is accepted by HPCA 2022.
