@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.</u>
+You can also find my articles on <a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.
 
 ## International Conferences
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
@@ -40,7 +40,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Domestic Conferences (in Japanese)
   1. 小畠晟裕, <u>上野洋典</u>, 近藤正章,
-  <br>"超伝導回路を用いた量子誤り訂正向けオンライン復号器の提案",
+  <br>"ニューラルネットワークを用いた量子誤り訂正手法の改良の検討",
   <br> 第240回情報処理学会システム・アーキテクチャ研究会, 2022.
 
   1. <u>上野洋典</u>, 近藤正章, 田中雅光, 鈴木泰成, 田渕豊,

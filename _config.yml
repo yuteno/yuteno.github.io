@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Yosuke Ueno"
   avatar           : "ueno_profile.jpg"
-  bio              : "Ph.D. student at the University of Tokyo"
+  bio              : "JSPS Research Fellowship for Young Scientists PD at the University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=pmhS7ekAAAAJ&hl=ja&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=pmhS7ekAAAAJ"
   email            : "ueno@hal.ipc.i.u-tokyo.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0402-9914"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
