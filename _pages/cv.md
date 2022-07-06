@@ -22,6 +22,9 @@ Education
 
 Work experience
 ======
+* Visiting postdoc researcher at Technical University of Munich
+  * Jun. 2022 to Mar. 2023
+
 * JSPS Research Fellowship for Young Scientists PD
 	* Apr. 2022 to Mar. 2023
 
