@@ -11,10 +11,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery",
    <br>28th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2022.
+   <br>(acceptance rate: 80/262=30.5%)
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code",
    <br> 58th IEEE/ACM Design Automation Conference (DAC), 2021. [[arxiv]](https://arxiv.org/abs/2103.14209)
+   <br> (acceptance rate: 23%)
 
   1. Motoki Sakurai, <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br> "Path Planning and Moving Obstacle Avoidance with Neuromorphic Computing",

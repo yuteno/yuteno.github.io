@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yosuke Ueno"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -24,5 +24,5 @@ Research Interest
 News
 ======
 - [June 4, 2022] My research life at Munich begins!
-- [April 1, 2022] The press release about our HPCA2022 paper is now opened ([link](https://www.keio.ac.jp/ja/press-releases/2022/4/1/28-122769/) in Japanese).
+- [April 1, 2022] The press release about our HPCA2022 paper is now opened (link in [Japanese](https://group.ntt/jp/newsrelease/2022/04/01/220401a.html) and [English](https://group.ntt/en/newsrelease/2022/04/01/220401a.html)).
 - [October 28, 2021] Our new paper "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery" is accepted by HPCA 2022.
