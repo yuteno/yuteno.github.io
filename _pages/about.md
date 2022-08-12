@@ -23,6 +23,7 @@ Research Interest
 
 News
 ======
+- [August 12, 2022] Our new preprint "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes" is now on arXiv. [[link]](https://arxiv.org/abs/2208.05758)
 - [June 4, 2022] My research life at Munich begins!
 - [April 1, 2022] The press release about our HPCA2022 paper is now opened (link in [Japanese](https://group.ntt/jp/newsrelease/2022/04/01/220401a.html) and [English](https://group.ntt/en/newsrelease/2022/04/01/220401a.html)).
 - [October 28, 2021] Our new paper "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery" is accepted by HPCA 2022.

@@ -39,6 +39,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> 24th International Display Workshops (IDW), 2017. (Invited talk)
 
 
+## Preprint
+  1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
+   <br> "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes",
+   <br> arXiv preprint arXiv:2208.05758, 2022. [[link]](https://arxiv.org/abs/2208.05758)
+
 
 ## Domestic Conferences (in Japanese)
   1. 小畠晟裕, <u>上野洋典</u>, 近藤正章,
