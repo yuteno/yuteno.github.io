@@ -11,6 +11,7 @@ redirect_from:
 I'm Yosuke Ueno, a postdoc researcher (JSPS-PD) of [Nakamura-Takase Lab](http://www.hal.ipc.i.u-tokyo.ac.jp/) at the University of Tokyo ([Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml)). Currently, I'm staying at Technical University of Munich as a visiting postdoc researcher.
 I'm also a visiting researcher of [Kondo-Lab](https://sites.google.com/view/kondo-lab/kondo?authuser=0) at Keio University.
 
+[Researchmap link](https://researchmap.jp/y-ueno)
 
 
 
