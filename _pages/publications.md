@@ -7,6 +7,11 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.
 
+## Preprint
+  1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
+   <br> "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes",
+   <br> arXiv preprint arXiv:2208.05758, 2022. [[link]](https://arxiv.org/abs/2208.05758)
+
 ## International Conferences
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery",
@@ -22,10 +27,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br> "Path Planning and Moving Obstacle Avoidance with Neuromorphic Computing",
   <br> IEEE International Conference on Intelligence and Safety for Robotics (ISR), 2021. (Oral)
 
-  1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki and Yutaka Tabuchi,
-  <br> "Quantum Error Correction with a Superconducting Decoder",
-  <br> 2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2020. (Invited talk)
-
   1. <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br> "Neuromorphic Graph Processing for Minimum Weight Perfect Matching",
   <br>  The 2nd R-CCS International Symposium, 2020. (Poster)
@@ -34,16 +35,24 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br>  "A Base DNN Model Selection Method for Efficient Transfer Learning toward Smart Society",
    <br>  The 1st R-CCS International Symposium, 2019. (Poster)
 
+
+
+
+
+
+
+## Talks
+  1. <u>Yosuke Ueno</u>,
+   <br> "Online decoding of surface code with a superconducting circuit",
+   <br>[Workshop on Real-Time Decoding for Fault-Tolerant Quantum Computing](https://www.qblox.com/ieeeworkshop) in IEEE Quantum week, 2022. [[slide]](/files/Yosuke_Ueno_QCE2022_main.pdf)
+
+  1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki and Yutaka Tabuchi,
+  <br> "Quantum Error Correction with a Superconducting Decoder",
+  <br> 2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2020. (Invited talk)
+
   1. <u>Yosuke Ueno</u>, Takayuki Hoshi, Atsushi Hiyama, and Masahiko Inami,
    <br> "Virtual Experiments of Augmentation of Transparent Cockpit",
    <br> 24th International Display Workshops (IDW), 2017. (Invited talk)
-
-
-## Preprint
-  1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
-   <br> "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes",
-   <br> arXiv preprint arXiv:2208.05758, 2022. [[link]](https://arxiv.org/abs/2208.05758)
-
 
 ## Domestic Conferences (in Japanese)
   1. 小畠晟裕, <u>上野洋典</u>, 近藤正章,
