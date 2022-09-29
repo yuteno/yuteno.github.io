@@ -10,9 +10,14 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## Preprint
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes",
-   <br> arXiv preprint arXiv:2208.05758, 2022. [[link]](https://arxiv.org/abs/2208.05758)
+   <br> arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 ## International Conferences
+  1. Wang Liao, Yasunari Suzuki, Teruo Tanimoto, <u>Yosuke Ueno</u>, Yuuki Tokunaga,
+   <br> "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
+   <br>28th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022.
+   <br>(acceptance rate: 102/328=31.1%)
+
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery",
    <br>28th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2022.
