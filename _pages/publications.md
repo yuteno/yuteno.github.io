@@ -60,6 +60,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> 24th International Display Workshops (IDW), 2017. (Invited talk)
 
 ## Domestic Conferences (in Japanese)
+  1. 富田祐永, <u>上野洋典</u>, 谷本輝夫, 田中雅光, 井上弘士, 中村宏,
+  <br>"通信量に着目した QAOA 向け極低温 NISQ コンピューティングのアーキテクチャ検討",
+  <br> 第242回情報処理学会システム・アーキテクチャ研究会, 2022.
+
   1. 小畠晟裕, <u>上野洋典</u>, 近藤正章,
   <br>"ニューラルネットワークを用いた量子誤り訂正手法の改良の検討",
   <br> 第240回情報処理学会システム・アーキテクチャ研究会, 2022.
