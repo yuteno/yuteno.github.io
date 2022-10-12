@@ -40,12 +40,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br>  "A Base DNN Model Selection Method for Efficient Transfer Learning toward Smart Society",
    <br>  The 1st R-CCS International Symposium, 2019. (Poster)
 
-
-
-
-
-
-
 ## Talks
   1. <u>Yosuke Ueno</u>,
    <br> "Online decoding of surface code with a superconducting circuit",
@@ -60,6 +54,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> 24th International Display Workshops (IDW), 2017. (Invited talk)
 
 ## Domestic Conferences (in Japanese)
+  1. 廖望, 鈴木泰成, 谷本輝夫, <u>上野洋典</u>, 徳永裕己,
+  <br>"WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
+  <br> 第7回情報処理学会量子ソフトウェア研究会, 2022.
+
   1. 富田祐永, <u>上野洋典</u>, 谷本輝夫, 田中雅光, 井上弘士, 中村宏,
   <br>"通信量に着目した QAOA 向け極低温 NISQ コンピューティングのアーキテクチャ検討",
   <br> 第242回情報処理学会システム・アーキテクチャ研究会, 2022.
