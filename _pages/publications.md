@@ -8,11 +8,21 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.
 
 ## Preprint
+  1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
+   <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook",
+   <br> arXiv preprint arXiv:23003.00054, 2023. [[arXiv]](https://arxiv.org/abs/2303.00054)
+
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes",
    <br> arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
+
 ## International Conferences
+  1. Francesco Battistel, Muhammad Usman, Christopher Chamberland, Swamit Tannu, Ramon Overwater, Fabio Sebastiano, <u>Yosuke Ueno</u>, Luka Skoric, Jordy Gloudemans, Damaz de Jong, Wouter Vlothuizen, Jules van Oven, Cornelis Christiaan Bultink,
+   <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Towards higher decoding speed and lower communication latency",
+   <br> American Physical Society March meeting 2023.
+
+
   1. Wang Liao, Yasunari Suzuki, Teruo Tanimoto, <u>Yosuke Ueno</u>, Yuuki Tokunaga,
    <br> "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
    <br>28th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022.
