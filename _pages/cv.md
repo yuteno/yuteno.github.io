@@ -22,6 +22,9 @@ Education
 
 Work experience
 ======
+* Special Postdoctoral Researcher at RIKEN Center for Quantum Computing
+  * Apr. 2023 to Present
+
 * Visiting postdoc researcher at Technical University of Munich
   * Jun. 2022 to Feb. 2023
 

@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Yosuke Ueno"
   avatar           : "ueno_profile.jpg"
-  bio              : "JSPS PD, the University of Tokyo"
-  location         : "Tokyo, Japan"
+  bio              : "Postdoc researcher, RIKEN Center for Quantum Computing"
+  location         : "Wako, Saitama"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pmhS7ekAAAAJ"
-  email            : "ueno@hal.ipc.i.u-tokyo.ac.jp"
+  email            : "yosuke.ueno@riken.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

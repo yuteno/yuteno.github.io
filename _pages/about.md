@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yosuke Ueno, a postdoc researcher (JSPS PD) of [Nakamura-Takase Lab](http://www.hal.ipc.i.u-tokyo.ac.jp/) at the University of Tokyo ([Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml)).
-I'm a visiting researcher of [Kondo-Lab](https://sites.google.com/view/kondo-lab/kondo?authuser=0) at Keio University. I'm also a visiting assistant professor at [System LSI Research Center](https://slrc.kyushu-u.ac.jp/en/), Kyushu University.
+I'm Yosuke Ueno, a postdoc researcher (SPDR) at [Superconducting Quantum Computing System Research Unit](https://www.riken.jp/en/research/labs/rqc/superconduct_qtm_comput_sys/index.html), RIKEN Ceter for Quantum Computing.
+I'm a visiting researcher at [Keio University](https://sites.google.com/view/kondo-lab/kondo?authuser=0), [the University of Tokyo](http://www.hal.ipc.i.u-tokyo.ac.jp/), and [Kyushu University](https://slrc.kyushu-u.ac.jp/en/).
 
 [Researchmap link](https://researchmap.jp/y-ueno)
 
