@@ -20,26 +20,27 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## International Conferences
   1. Francesco Battistel, Muhammad Usman, Christopher Chamberland, Swamit Tannu, Ramon Overwater, Fabio Sebastiano, <u>Yosuke Ueno</u>, Luka Skoric, Jordy Gloudemans, Damaz de Jong, Wouter Vlothuizen, Jules van Oven, Cornelis Christiaan Bultink,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Towards higher decoding speed and lower communication latency",
-   <br> American Physical Society March meeting 2023.
+   <br> American Physical Society March meeting 2023. <span style="color: red; ">(APS 2023) </span>
 
   1. Wang Liao, Yasunari Suzuki, Teruo Tanimoto, <u>Yosuke Ueno</u>, Yuuki Tokunaga,
    <br> "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
-   <br>28th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022.
-   <br>(acceptance rate: 102/328=31.1%)
+   <br>28th Asia and South Pacific Design Automation Conference. <span style="color: red; ">(ASP-DAC 2022) </span>
+   <br><span style="color: red; ">[acceptance rate: 102/328=31.1%]</span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery",
-   <br>28th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2022.
-   <br>(acceptance rate: 80/262=30.5%)
+   <br>28th IEEE International Symposium on High-Performance Computer Architecture. <span style="color: red; ">(HPCA 2022) </span>
+   <br><span style="color: red; ">[acceptance rate: 80/262=30.5%]</span>
+
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code",
-   <br> 58th IEEE/ACM Design Automation Conference (DAC), 2021. [[arxiv]](https://arxiv.org/abs/2103.14209)
-   <br> (acceptance rate: 23%)
+   <br> 58th IEEE/ACM Design Automation Conference. <span style="color: red; ">(DAC 2021) </span> [[arxiv]](https://arxiv.org/abs/2103.14209)
+   <br><span style="color: red; ">[acceptance rate: 23%]</span>
 
   1. Motoki Sakurai, <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br> "Path Planning and Moving Obstacle Avoidance with Neuromorphic Computing",
-  <br> IEEE International Conference on Intelligence and Safety for Robotics (ISR), 2021. (Oral)
+  <br> IEEE International Conference on Intelligence and Safety for Robotics. <span style="color: red; ">(ISR 2021) </span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br> "Neuromorphic Graph Processing for Minimum Weight Perfect Matching",
@@ -80,6 +81,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>上野洋典</u>, 近藤正章, 田中雅光, 鈴木泰成, 田渕豊,
   <br>"超伝導回路を用いた量子誤り訂正向けオンライン復号器の提案",
   <br> 第2回情報処理学会量子ソフトウェア研究会, 2021.
+  <br><span style="color: green; ">優秀発表賞, 情報処理学会コンピュータサイエンス領域奨励賞  </span>
 
   1. 水野太資, <u>上野洋典</u>, 近藤正章,
   <br>"二値化ニューラルネットワークを用いた量子誤り訂正の検討",
@@ -88,10 +90,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. 櫻井元貴, 穴澤徳明, <u>上野洋典</u>, 近藤正章,
   <br>"ニューロモーフィックコンピューティングによる移動障害物を考慮した経路探索手法",
   <br>情報処理学会研究報告, 第233回情報処理学会システム・アーキテクチャ研究会, 2020.
+  <br><span style="color: green; ">若手奨励賞</span>
 
   1. <u>上野洋典</u>, 近藤正章,
   <br>"重み付きグラフの最大マッチング問題における脳型計算を用いた近似解法の検討",
   <br>第232回情報処理学会システム・アーキテクチャ研究会, 2020.
+  <br><span style="color: green; ">若手奨励賞, 情報処理学会 山下記念研究賞</span>
 
   1. 穴澤徳明, <u>上野洋典</u>, 近藤正章,
   <br>"スパイキングニューラルネットワークを用いた時間依存ネットワークに対する経路探索手法の検討",
