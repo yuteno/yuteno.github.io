@@ -23,6 +23,7 @@ Research Interest
 
 News
 ======
+- [April 1, 2023] I start working at [RIKEN](https://www.riken.jp/en/research/labs/rqc/superconduct_qtm_comput_sys/index.html) as a postdoc researcher.
 - [March 2, 2023] Our new perspective paper "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook" is now on arXiv. [[link]](https://arxiv.org/abs/2303.00054)
 - [March 1, 2023] After my stay in Munich, I returned to Japan.
 - [September 29, 2022] Our new paper "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code" is accepted by ASP-DAC 2023.
