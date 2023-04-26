@@ -22,7 +22,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Towards higher decoding speed and lower communication latency",
    <br> American Physical Society March meeting 2023.
 
-
   1. Wang Liao, Yasunari Suzuki, Teruo Tanimoto, <u>Yosuke Ueno</u>, Yuuki Tokunaga,
    <br> "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
    <br>28th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022.
@@ -62,6 +61,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>Yosuke Ueno</u>, Takayuki Hoshi, Atsushi Hiyama, and Masahiko Inami,
    <br> "Virtual Experiments of Augmentation of Transparent Cockpit",
    <br> 24th International Display Workshops (IDW), 2017. (Invited talk)
+
+
 
 ## Domestic Conferences (in Japanese)
   1. 廖望, 鈴木泰成, 谷本輝夫, <u>上野洋典</u>, 徳永裕己,
@@ -108,6 +109,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br>"画像認識における効率的な転移学習のための学習モデル選択手法の検討",
   <br> 第220回情報処理学会システム・アーキテクチャ研究会, 2017.
 
+## Misc.
+  1. 上野洋典, [東大システム情報学専攻「博士課程進学のすすめ」](https://speakerdeck.com/youten622/dong-da-sisutemuqing-bao-xue-zhuan-gong-xiang-ke-qi-qing-nikao-eru-bo-shi-ke-cheng-jin-xue-nosusume), 2023年4月14日
 
 <!--
 
