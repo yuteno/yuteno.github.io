@@ -18,6 +18,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## International Conferences
+  1. Yasunari Suzuki, <u>Yosuke Ueno</u>, Wang Liao, Masamitsu Tanaka, Teruo Tanimoto,
+   <br> "Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing",
+   <br>2023 Symposium on VLSI Technology and Circuits. (Invited, to appear) <span style="color: red; ">(VLSI 2023) </span>
+
   1. Francesco Battistel, Muhammad Usman, Christopher Chamberland, Swamit Tannu, Ramon Overwater, Fabio Sebastiano, <u>Yosuke Ueno</u>, Luka Skoric, Jordy Gloudemans, Damaz de Jong, Wouter Vlothuizen, Jules van Oven, Cornelis Christiaan Bultink,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Towards higher decoding speed and lower communication latency",
    <br> American Physical Society March meeting 2023. <span style="color: red; ">(APS 2023) </span>
@@ -31,7 +35,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery",
    <br>28th IEEE International Symposium on High-Performance Computer Architecture. <span style="color: red; ">(HPCA 2022) </span>
    <br><span style="color: red; ">[acceptance rate: 80/262=30.5%]</span>
-
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code",
