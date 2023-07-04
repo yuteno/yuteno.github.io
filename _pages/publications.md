@@ -55,20 +55,35 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Talks
   1. <u>Yosuke Ueno</u>,
+   <br> "Online surface code decoder with a superconducting circuit",
+   <br>[56th RQC Seminar](https://rqc.riken.jp/events/20230628_56th-rqc-seminar.html), RIKEN Center for Quantum Computing, 2023. [[slide]](/files/RQCseminar.pdf)
+
+  1. <u>Yosuke Ueno</u>,
    <br> "Online decoding of surface code with a superconducting circuit",
    <br>[Workshop on Real-Time Decoding for Fault-Tolerant Quantum Computing](https://www.qblox.com/ieeeworkshop) in IEEE Quantum week, 2022. [[slide]](/files/Yosuke_Ueno_QCE2022_main.pdf)
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki and Yutaka Tabuchi,
-  <br> "Quantum Error Correction with a Superconducting Decoder",
-  <br> 2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2020. (Invited talk)
+   <br> "Quantum Error Correction with a Superconducting Decoder",
+   <br> 2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2020. (Invited talk)
 
   1. <u>Yosuke Ueno</u>, Takayuki Hoshi, Atsushi Hiyama, and Masahiko Inami,
    <br> "Virtual Experiments of Augmentation of Transparent Cockpit",
    <br> 24th International Display Workshops (IDW), 2017. (Invited talk)
 
 
+<!--
+## Talks (in Japanese)
+  1. <u>上野洋典</u>,
+   <br> "",
+   <br>[56th RQC Seminar](https://rqc.riken.jp/events/20230628_56th-rqc-seminar.html), RIKEN Center for Quantum Computing, 2023. [[slide]](/files/RQCseminar.pdf)
+-->
+
 
 ## Domestic Conferences (in Japanese)
+  1. 多賀直史, <u>上野洋典</u>, 近藤正章,
+  <br>"量子ビットの誤り率の偏りを考慮したニューラルネットワークによる量子誤り訂正手法の検討",
+  <br> 第246回情報処理学会システム・アーキテクチャ研究会, 2023.
+
   1. 廖望, 鈴木泰成, 谷本輝夫, <u>上野洋典</u>, 徳永裕己,
   <br>"WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
   <br> 第7回情報処理学会量子ソフトウェア研究会, 2022.
