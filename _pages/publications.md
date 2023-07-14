@@ -80,6 +80,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Domestic Conferences (in Japanese)
+
+  1. <u>上野洋典</u>, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
+  <br>"超伝導量子計算機のシステムレベル最適化に向けて 〜QAOAを対象とした場合〜",
+  <br> xSIG (Cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming), 2023. (ポスター)
+
   1. 多賀直史, <u>上野洋典</u>, 近藤正章,
   <br>"量子ビットの誤り率の偏りを考慮したニューラルネットワークによる量子誤り訂正手法の検討",
   <br> 第246回情報処理学会システム・アーキテクチャ研究会, 2023.
