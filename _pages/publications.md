@@ -8,42 +8,42 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.
 
 ## Preprint
-  1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
-   <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook",
-   <br> arXiv preprint arXiv:23003.00054, 2023. [[arXiv]](https://arxiv.org/abs/2303.00054)
-
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes",
    <br> arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 
-## International Conferences
+## International Journals and Conferences
+  1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
+   <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook",
+   <br> Nano Futures, Vol. xx, Num. xx, pp. xxx-xxx. (Accepted) <span style="color: red; "> (Nano Futures) </span> [[arXiv]](https://arxiv.org/abs/2303.00054)
+
   1. Yasunari Suzuki, <u>Yosuke Ueno</u>, Wang Liao, Masamitsu Tanaka, Teruo Tanimoto,
    <br> "Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing",
-   <br>2023 Symposium on VLSI Technology and Circuits. (Invited, to appear) <span style="color: red; ">(VLSI 2023) </span>
+   <br>2023 Symposium on VLSI Technology and Circuits. (Invited) <span style="color: red; "> (VLSI 2023) </span>
 
   1. Francesco Battistel, Muhammad Usman, Christopher Chamberland, Swamit Tannu, Ramon Overwater, Fabio Sebastiano, <u>Yosuke Ueno</u>, Luka Skoric, Jordy Gloudemans, Damaz de Jong, Wouter Vlothuizen, Jules van Oven, Cornelis Christiaan Bultink,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Towards higher decoding speed and lower communication latency",
-   <br> American Physical Society March meeting 2023. <span style="color: red; ">(APS 2023) </span>
+   <br> American Physical Society March meeting 2023. <span style="color: red; "> (APS 2023) </span>
 
   1. Wang Liao, Yasunari Suzuki, Teruo Tanimoto, <u>Yosuke Ueno</u>, Yuuki Tokunaga,
    <br> "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
-   <br>28th Asia and South Pacific Design Automation Conference. <span style="color: red; ">(ASP-DAC 2022) </span>
+   <br>28th Asia and South Pacific Design Automation Conference. <span style="color: red; "> (ASP-DAC 2022) </span>
    <br><span style="color: red; ">[acceptance rate: 102/328=31.1%]</span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery",
-   <br>28th IEEE International Symposium on High-Performance Computer Architecture. <span style="color: red; ">(HPCA 2022) </span>
+   <br>28th IEEE International Symposium on High-Performance Computer Architecture. <span style="color: red; "> (HPCA 2022) </span>
    <br><span style="color: red; ">[acceptance rate: 80/262=30.5%]</span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code",
-   <br> 58th IEEE/ACM Design Automation Conference. <span style="color: red; ">(DAC 2021) </span> [[arxiv]](https://arxiv.org/abs/2103.14209)
+   <br> 58th IEEE/ACM Design Automation Conference. <span style="color: red; "> (DAC 2021) </span> [[arxiv]](https://arxiv.org/abs/2103.14209)
    <br><span style="color: red; ">[acceptance rate: 23%]</span>
 
   1. Motoki Sakurai, <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br> "Path Planning and Moving Obstacle Avoidance with Neuromorphic Computing",
-  <br> IEEE International Conference on Intelligence and Safety for Robotics. <span style="color: red; ">(ISR 2021) </span>
+  <br> IEEE International Conference on Intelligence and Safety for Robotics. <span style="color: red; "> (ISR 2021) </span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br> "Neuromorphic Graph Processing for Minimum Weight Perfect Matching",
@@ -71,12 +71,18 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> 24th International Display Workshops (IDW), 2017. (Invited talk)
 
 
-<!--
+
 ## Talks (in Japanese)
   1. <u>上野洋典</u>,
-   <br> "",
-   <br>[56th RQC Seminar](https://rqc.riken.jp/events/20230628_56th-rqc-seminar.html), RIKEN Center for Quantum Computing, 2023. [[slide]](/files/RQCseminar.pdf)
--->
+   <br> "表面符号を用いた誤り耐性計算へ向けた超伝導デバイスアーキテクチャ",
+   <br> 第34回量子情報関東Student Chapter, 2023年9月. （発表予定）
+  1. <u>上野洋典</u>,
+   <br> トップコンファレンスセッション "超伝導回路を用いたオンライン量子誤り訂正",
+   <br> 第22回情報科学技術フォーラム（FIT2023）, 2023年9月. （発表予定）
+  1. 天野 英晴, 谷本輝夫, <u>上野洋典</u>, 小松一彦, 佐野健太郎, 平木敬
+   <br> BoFセッション "コンピュータ研究者は、量子コンピュータを研究する(勉強する)必要があるのだろうか？",
+   <br> 並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2023）, 2023年8月. （発表予定）
+
 
 
 ## Domestic Conferences (in Japanese)
