@@ -16,7 +16,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## International Journals and Conferences
   1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook",
-   <br> Nano Futures, Vol. xx, Num. xx, pp. xxx-xxx. (Accepted) <span style="color: red; "> (Nano Futures) </span> [[arXiv]](https://arxiv.org/abs/2303.00054)
+   <br> Nano Futures, Vol. 7, Num. 3, pp. 032003. <span style="color: red; "> (Nano Futures) </span> [[arXiv]](https://arxiv.org/abs/2303.00054)
 
   1. Yasunari Suzuki, <u>Yosuke Ueno</u>, Wang Liao, Masamitsu Tanaka, Teruo Tanimoto,
    <br> "Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing",
