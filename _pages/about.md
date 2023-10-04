@@ -23,9 +23,7 @@ Research Interest
 
 News
 ======
+- [October 4, 2023] Our new paper "Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines" is accepted by [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca). [[arXiv link]](https://arxiv.org/abs/2310.01630)
 - [July 28, 2023] Our perspective paper "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook" is now accepted on [Nano Futures](https://iopscience.iop.org/journal/2399-1984)! [[arXiv link]](https://arxiv.org/abs/2303.00054)
 - [July 14, 2023] I shared the list of [Quantum Papers on Computer Architecture Conferences](https://docs.google.com/spreadsheets/d/1DEjAtAuG9deEltayrWNTJj5ML0_W1EjDqlCMWpAv9is/edit?usp=sharing) with Japanese short abstractions.
 - [April 1, 2023] I start working at [RIKEN](https://www.riken.jp/en/research/labs/rqc/superconduct_qtm_comput_sys/index.html) as a postdoc researcher.
-- [March 2, 2023] Our new perspective paper "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook" is now on arXiv. [[link]](https://arxiv.org/abs/2303.00054)
-- [March 1, 2023] After my stay in Munich, I returned to Japan.
-- [September 29, 2022] Our new paper "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code" is accepted by ASP-DAC 2023.
