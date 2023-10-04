@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Yosuke Ueno"
-  avatar           : "ueno_profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Postdoc researcher, RIKEN Center for Quantum Computing"
   location         : "Wako, Saitama"
   employer         :
