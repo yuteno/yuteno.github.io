@@ -31,7 +31,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. Wang Liao, Yasunari Suzuki, Teruo Tanimoto, <u>Yosuke Ueno</u>, Yuuki Tokunaga,
    <br> "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
-   <br>28th Asia and South Pacific Design Automation Conference. <span style="color: red; "> (ASP-DAC 2022) </span>
+   <br>28th Asia and South Pacific Design Automation Conference. <span style="color: red; "> (ASP-DAC 2023) </span>
    <br><span style="color: red; ">[acceptance rate: 102/328=31.1%]</span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
