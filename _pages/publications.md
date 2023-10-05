@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## International Journals and Conferences
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines",
-   <br> Computer Architecture Letters, Vol. xxx, Num. xxx, pp. xxx. (Accepted) <span style="color: red; "> (CAL 2023) </span> [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
+   <br> IEEE Computer Architecture Letters, Vol. xxx, Num. xxx, pp. xxx. (Accepted) <span style="color: red; "> (CAL 2023) </span> [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
 
   1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook",
