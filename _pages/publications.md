@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## International Journals and Conferences
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines",
-   <br> IEEE Computer Architecture Letters, Vol. xxx, Num. xxx, pp. xxx. (Accepted) <span style="color: red; "> (CAL 2023) </span> [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
+   <br> IEEE Computer Architecture Letters, Vol. xxx, Num. xxx, pp. xxx. (Accepted) <span style="color: red; "> (CAL 2023) </span> DOI: [10.1109/LCA.2023.3322700](https://doi.ieeecomputersociety.org/10.1109/LCA.2023.3322700) [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
 
   1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook",
@@ -57,6 +57,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br>  The 1st R-CCS International Symposium, 2019. (Poster)
 
 ## Talks
+  1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
+   <br> "Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA",
+   <br> 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2023. (To appear)
+
   1. <u>Yosuke Ueno</u>,
    <br> "Online surface code decoder with a superconducting circuit",
    <br>[56th RQC Seminar](https://rqc.riken.jp/events/20230628_56th-rqc-seminar.html), RIKEN Center for Quantum Computing, 2023. [[slide]](/files/RQCseminar.pdf)
@@ -77,11 +81,14 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Talks (in Japanese)
   1. <u>上野洋典</u>,
+   <br> "量子計算機アーキテクチャ分野の研究動向",
+   <br> 情報処理学会第10回量子ソフトウェア研究会, 2023年10月. (招待講演)
+  1. <u>上野洋典</u>,
    <br> トップコンファレンスセッション "超伝導回路を用いたオンライン量子誤り訂正",
-   <br> 第22回情報科学技術フォーラム（FIT2023）, 2023年9月. （発表予定）
+   <br> 第22回情報科学技術フォーラム（FIT2023）, 2023年9月. (招待講演)
   1. <u>上野洋典</u>,
    <br> "表面符号を用いた誤り耐性計算へ向けた超伝導デバイスアーキテクチャ",
-   <br> 第34回量子情報関東Student Chapter, 2023年9月. [[資料]](/files/QI_kanto_SC.pdf)
+   <br> 第34回量子情報関東Student Chapter, 2023年9月. (招待講演) [[資料]](/files/QI_kanto_SC.pdf)
   1. 天野 英晴, 谷本輝夫, <u>上野洋典</u>, 小松一彦, 佐野健太郎, 平木敬
    <br> BoFセッション "コンピュータ研究者は、量子コンピュータを研究する(勉強する)必要があるのだろうか？",
    <br> 並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2023）, 2023年8月. [[資料]](/files/SWoPP_BoF_ueno.pdf)
