@@ -59,7 +59,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## Talks
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA",
-   <br> 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2023. (To appear)
+   <br> 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2023. [[slide]](/files/QCCC2023_presentation_ueno_share.pdf)
 
   1. <u>Yosuke Ueno</u>,
    <br> "Online surface code decoder with a superconducting circuit",

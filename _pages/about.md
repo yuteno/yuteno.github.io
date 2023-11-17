@@ -13,7 +13,7 @@ I'm a visiting researcher at [Keio University](https://sites.google.com/view/kon
 
 [Researchmap link](https://researchmap.jp/y-ueno)
 
-[Quantum Papers on Computer Architecture Conferences](https://docs.google.com/spreadsheets/d/1DEjAtAuG9deEltayrWNTJj5ML0_W1EjDqlCMWpAv9is/edit?usp=sharing) with Japanese short abstractions (As of July 2023)
+[Quantum Papers on Computer Architecture Conferences](https://docs.google.com/spreadsheets/d/1DEjAtAuG9deEltayrWNTJj5ML0_W1EjDqlCMWpAv9is/edit?usp=sharing) with Japanese short abstractions (As of Oct. 2023)
 
 Research Interest
 ======
