@@ -13,9 +13,14 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 ## International Journals and Conferences
+  1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
+   <br> "SFQ counter-based precomputation for large-scale cryogenic VQE machines",
+   <br> Work in progress poster session in the 61st Design Automation Conference (Accepted) <span style="color: red; "> (DAC WIP 2024) </span> [[arXiv]](https://arxiv.org/abs/2403.00363)
+
+
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines",
-   <br> IEEE Computer Architecture Letters, Vol. xxx, Num. xxx, pp. xxx. (Accepted) <span style="color: red; "> (CAL 2023) </span> DOI: [10.1109/LCA.2023.3322700](https://doi.ieeecomputersociety.org/10.1109/LCA.2023.3322700) [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
+   <br> IEEE Computer Architecture Letters, Vol. 23, Num. 01, pp. 9-12. <span style="color: red; "> (CAL 2023) </span> DOI: [10.1109/LCA.2023.3322700](https://doi.ieeecomputersociety.org/10.1109/LCA.2023.3322700) [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
 
   1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook",
@@ -57,6 +62,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br>  The 1st R-CCS International Symposium, 2019. (Poster)
 
 ## Talks
+  1. <u>Yosuke Ueno</u>,
+   <br> "Online surface code decoder with a superconducting circuit",
+   <br>[Kobe Quantum Error Correction Symposium](https://rqc.riken.jp/events/20230628_56th-rqc-seminar.html), RIKEN Center for Computational Science, 2023. [[slide]](/files/20240123_QuECS_ueno.pdf)
+
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA",
    <br> 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2023. [[slide]](/files/QCCC2023_presentation_ueno_share.pdf)
@@ -67,7 +76,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>Yosuke Ueno</u>,
    <br> "Online decoding of surface code with a superconducting circuit",
-   <br>[Workshop on Real-Time Decoding for Fault-Tolerant Quantum Computing](https://www.qblox.com/ieeeworkshop) in IEEE Quantum week, 2022. [[slide]](/files/Yosuke_Ueno_QCE2022_main.pdf)
+   <br>Workshop on Real-Time Decoding for Fault-Tolerant Quantum Computing in IEEE Quantum week, 2022. [[slide]](/files/Yosuke_Ueno_QCE2022_main.pdf)
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki and Yutaka Tabuchi,
    <br> "Quantum Error Correction with a Superconducting Decoder",
