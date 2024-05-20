@@ -15,8 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## International Journals and Conferences
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "SFQ counter-based precomputation for large-scale cryogenic VQE machines",
-   <br> Work in progress poster session in the 61st Design Automation Conference (Accepted) <span style="color: red; "> (DAC WIP 2024) </span> [[arXiv]](https://arxiv.org/abs/2403.00363)
-
+   <br> Work in progress poster session in the 61st Design Automation Conference (Accepted). <span style="color: red; "> (DAC 2024 WIP) </span> [[arXiv]](https://arxiv.org/abs/2403.00363)
 
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines",
@@ -63,8 +62,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Talks
   1. <u>Yosuke Ueno</u>,
+  <br> "A 2.5D qubit plane architecture for efficient lattice surgery-based FTQC",
+  <br>YITP Quantum Error Correction Workshop, Yukawa Institute for Theoretical Physics, 2024.
+
+  1. <u>Yosuke Ueno</u>,
    <br> "Online surface code decoder with a superconducting circuit",
-   <br>[Kobe Quantum Error Correction Symposium](https://rqc.riken.jp/events/20230628_56th-rqc-seminar.html), RIKEN Center for Computational Science, 2023. [[slide]](/files/20240123_QuECS_ueno.pdf)
+   <br>[Kobe Quantum Error Correction Symposium](https://rqc.riken.jp/events/20230628_56th-rqc-seminar.html), RIKEN Center for Computational Science, 2024. [[slide]](/files/20240123_QuECS_ueno.pdf)
 
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA",
@@ -105,6 +108,14 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Domestic Conferences (in Japanese)
+
+  1. 齋藤卓, <u>上野洋典</u>, 谷本輝夫, 田渕豊, 玉手修平, 中村宏,
+  <br>"格子手術に基づく誤り耐性量子計算のボトルネック解析によるアーキテクチャ検討",
+  <br>第250回情報処理学会システム・アーキテクチャ研究会, 2024.
+
+  1. <u>上野洋典</u>, 今村智史, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
+  <br>"変分量子アルゴリズム向け極低温SFQアーキテクチャ",
+  <br>第249回情報処理学会システム・アーキテクチャ研究会, 2024.
 
   1. <u>上野洋典</u>, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
   <br>"超伝導量子計算機のシステムレベル最適化に向けて 〜QAOAを対象とした場合〜",
