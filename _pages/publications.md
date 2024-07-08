@@ -115,6 +115,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>上野洋典</u>, 今村智史, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
   <br>"変分量子アルゴリズム向け極低温SFQアーキテクチャ",
   <br>第249回情報処理学会システム・アーキテクチャ研究会, 2024. [[資料]](/files/HotSPA2024_ueno.pdf)
+  <br><span style="color: green; ">電子情報通信学会 CPSY研究会優秀発表賞 </span>
 
   1. <u>上野洋典</u>, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
   <br>"超伝導量子計算機のシステムレベル最適化に向けて 〜QAOAを対象とした場合〜",
@@ -139,7 +140,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>上野洋典</u>, 近藤正章, 田中雅光, 鈴木泰成, 田渕豊,
   <br>"超伝導回路を用いた量子誤り訂正向けオンライン復号器の提案",
   <br> 第2回情報処理学会量子ソフトウェア研究会, 2021.
-  <br><span style="color: green; ">優秀発表賞, 情報処理学会コンピュータサイエンス領域奨励賞  </span>
+  <br><span style="color: green; ">量子ソフトウェア研究会 優秀発表賞<br>
+  情報処理学会 コンピュータサイエンス領域奨励賞  </span>
 
   1. 水野太資, <u>上野洋典</u>, 近藤正章,
   <br>"二値化ニューラルネットワークを用いた量子誤り訂正の検討",
@@ -148,12 +150,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. 櫻井元貴, 穴澤徳明, <u>上野洋典</u>, 近藤正章,
   <br>"ニューロモーフィックコンピューティングによる移動障害物を考慮した経路探索手法",
   <br>情報処理学会研究報告, 第233回情報処理学会システム・アーキテクチャ研究会, 2020.
-  <br><span style="color: green; ">若手奨励賞</span>
+  <br><span style="color: green; ">システム・アーキテクチャ研究会 若手奨励賞</span>
 
   1. <u>上野洋典</u>, 近藤正章,
   <br>"重み付きグラフの最大マッチング問題における脳型計算を用いた近似解法の検討",
   <br>第232回情報処理学会システム・アーキテクチャ研究会, 2020.
-  <br><span style="color: green; ">若手奨励賞, 情報処理学会 山下記念研究賞</span>
+  <br><span style="color: green; ">システム・アーキテクチャ研究会 若手奨励賞<br>
+  情報処理学会 山下記念研究賞</span>
 
   1. 穴澤徳明, <u>上野洋典</u>, 近藤正章,
   <br>"スパイキングニューラルネットワークを用いた時間依存ネットワークに対する経路探索手法の検討",

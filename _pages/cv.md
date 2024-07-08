@@ -60,6 +60,9 @@ See
 
 Awards
 ======
+* Young researcher's award, IEICE, CPSY
+<div style="text-align: right;"> Jun. 2024</div>
+
 * Selected Ph.D. thesis recommended by SIG on Quantum Software, IPSJ [[link (Japanese)]](https://note.com/ipsj/n/n958c8664093f)
 <div style="text-align: right;"> Aug. 2022</div>
 
