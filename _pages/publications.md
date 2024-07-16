@@ -13,9 +13,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 ## International Journals and Conferences
+  1. Shunsuke Matsuo, Shigeru Yamashita, <u>Yosuke Ueno</u>,
+  <br> "An Optimization Method for Initial Placement of Logical Qubits in Lattice Surgery using Simulated Annealing",
+  <br> 24th Asian Quantum Information Science Conference. (To appear) <span style="color: red; "> (AQIS 2024 poster) </span>
+
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "SFQ counter-based precomputation for large-scale cryogenic VQE machines",
-   <br> Work in progress poster session in the 61st Design Automation Conference (Accepted). <span style="color: red; "> (DAC 2024 WIP) </span> [[arXiv]](https://arxiv.org/abs/2403.00363)
+   <br> Work in progress poster session in the 61st Design Automation Conference. <span style="color: red; "> (DAC 2024 WIP) </span> [[arXiv]](https://arxiv.org/abs/2403.00363)
 
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines",
