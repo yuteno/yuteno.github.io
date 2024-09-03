@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## International Journals and Conferences
   1. Shunsuke Matsuo, Shigeru Yamashita, <u>Yosuke Ueno</u>,
   <br> "An Optimization Method for Initial Placement of Logical Qubits in Lattice Surgery using Simulated Annealing",
-  <br> 24th Asian Quantum Information Science Conference. (To appear) <span style="color: red; "> (AQIS 2024 poster) </span>
+  <br> 24th Asian Quantum Information Science Conference. <span style="color: red; "> (AQIS 2024 poster) </span>
 
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "SFQ counter-based precomputation for large-scale cryogenic VQE machines",
@@ -65,6 +65,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br>  The 1st R-CCS International Symposium, 2019. (Poster)
 
 ## Talks
+  1. Warit Asavanant, Shin Nishio, Thinh Le, Ting-Chun Lin, <u>Yosuke Ueno</u>, Akihito Soeda (Moderator),
+  <br> Panel session in AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing, 2024.
   1. <u>Yosuke Ueno</u>,
   <br> "A 2.5D qubit plane architecture for efficient lattice surgery-based FTQC",
   <br>YITP Quantum Error Correction Workshop, Yukawa Institute for Theoretical Physics, 2024.
