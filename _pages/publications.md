@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.
 
 ## Preprint
+  1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
+   <br> "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms",
+   <br> arXiv preprint arXiv:2409.07847, 2024. [[arXiv]](https://arxiv.org/abs/2409.07847)
+
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes",
    <br> arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
