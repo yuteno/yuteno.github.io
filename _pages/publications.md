@@ -103,6 +103,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Talks (in Japanese)
   1. <u>上野洋典</u>,
+   <br> "量子計算機アーキテクチャのための異分野間共同研究のすすめ",
+   <br> 第1回FTQCアーキテクチャ研究会, 2024年11月. (招待講演) [[資料]](/files/FTQC_ARC_invited.pdf)
+  1. <u>上野洋典</u>,
    <br> "量子計算機アーキテクチャ分野の研究動向",
    <br> 情報処理学会第10回量子ソフトウェア研究会, 2023年10月. (招待講演) [[資料]](/files/QS10_invited.pdf)
   1. <u>上野洋典</u>,
