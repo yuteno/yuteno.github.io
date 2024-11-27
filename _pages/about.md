@@ -23,6 +23,7 @@ Research Interest
 
 News
 ======
+- [November 26, 2024] Our new preprint "High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2411.17519)
 - [October 13, 2024] Our new preprint "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2409.07847)
 - [March 4, 2024] Our new paper "SFQ counter-based precomputation for large-scale cryogenic VQE machines" is accepted by the work in progress poster session in the 61st Design Autuomation Conference. [[arXiv link]](https://arxiv.org/abs/2403.00363)
 - [October 4, 2023] Our new paper "Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines" is accepted by [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca). [[arXiv link]](https://arxiv.org/abs/2310.01630)
