@@ -16,15 +16,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> "High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture",
    <br> arXiv preprint arXiv:2411.17519, 2024. [[arXiv]](https://arxiv.org/abs/2411.17519)
 
-  1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
-   <br> "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms",
-   <br> arXiv preprint arXiv:2409.07847, 2024. [[arXiv]](https://arxiv.org/abs/2409.07847)
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes",
    <br> arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 ## International Journals and Conferences
+  1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
+   <br> "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms",
+   <br> IEEE Transactions on Quantum Engineering (accpeted). <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+
   1. Shunsuke Matsuo, Shigeru Yamashita, <u>Yosuke Ueno</u>,
   <br> "An Optimization Method for Initial Placement of Logical Qubits in Lattice Surgery using Simulated Annealing",
   <br> 24th Asian Quantum Information Science Conference. <span style="color: red; "> (AQIS 2024 poster) </span>
