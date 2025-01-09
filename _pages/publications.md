@@ -22,9 +22,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br> arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 ## International Journals and Conferences
+
+  1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
+   <br> "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing",
+   <br> 2025 IEEE International Symposium on High-Performance Computer Architecture (accpeted). <span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+
+
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms",
-   <br> IEEE Transactions on Quantum Engineering (accpeted). <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+   <br> IEEE Transactions on Quantum Engineering (accpeted). <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
 
   1. Shunsuke Matsuo, Shigeru Yamashita, <u>Yosuke Ueno</u>,
   <br> "An Optimization Method for Initial Placement of Logical Qubits in Lattice Surgery using Simulated Annealing",
