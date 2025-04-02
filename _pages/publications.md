@@ -126,6 +126,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Talks (in Japanese)
   1. <u>上野洋典</u>,
+   <br> "SFQ回路を用いたリアルタイム量子誤り訂正",
+   <br> 令和7年電気学会全国大会シンポジウム「ニューロモルフィック計算回路の研究動向」, 2025年3月. (招待講演) [[資料]](/files/neuromorphic_invited.pdf)
+  1. <u>上野洋典</u>,
    <br> "量子計算機アーキテクチャのための異分野間共同研究のすすめ",
    <br> 第1回FTQCアーキテクチャ研究会, 2024年11月. (招待講演) [[資料]](/files/FTQC_ARC_invited.pdf)
   1. <u>上野洋典</u>,
