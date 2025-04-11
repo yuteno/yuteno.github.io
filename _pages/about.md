@@ -23,7 +23,7 @@ Research Interest
 
 News
 ======
-- [December 29, 2024] Our paper "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing" is accepted by HPCA2025. [[arXiv link]](https://arxiv.org/abs/2412.20486)
+- [December 29, 2024] Our paper "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing" is accepted by HPCA2025. [[arXiv link]](https://arxiv.org/abs/2412.20486), [Press release [(English)](https://group.ntt/en/newsrelease/2025/03/04/250304a.html) / [(Japanese)](https://group.ntt/jp/newsrelease/2025/03/04/250304a.html)], .
 - [December 17, 2024] Our paper "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms" is accepted by IEEE Transactions on Quantum Engineering (TQE). [[arXiv link]](https://arxiv.org/abs/2409.07847)
 - [December 13, 2024] Our new preprint "An Optical Interconnect for Modular Quantum Computers" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2412.09299)
 - [November 26, 2024] Our new preprint "High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2411.17519)

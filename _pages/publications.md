@@ -25,11 +25,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
    <br> "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing",
-   <br> 2025 IEEE International Symposium on High-Performance Computer Architecture (accepted). <span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+   <br> 2025 IEEE International Symposium on High-Performance Computer Architecture. <span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+   <br><span style="color: red; ">[acceptance rate: 21%]</span>
+   <br>DOI: [10.1109/HPCA61900.2025.00033](https://doi.org/10.1109/HPCA61900.2025.00033)
 
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms",
-   <br> IEEE Transactions on Quantum Engineering (accepted). <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
+   <br> IEEE Transactions on Quantum Engineering. <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
    <br>DOI: [10.1109/TQE.2024.3521442](https://doi.org/10.1109/TQE.2024.3521442)
 
   1. Shunsuke Matsuo, Shigeru Yamashita, <u>Yosuke Ueno</u>,
@@ -42,7 +44,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines",
-   <br> IEEE Computer Architecture Letters, Vol. 23, Num. 01, pp. 9-12. <span style="color: red; "> (CAL 2023) </span> DOI: [10.1109/LCA.2023.3322700](https://doi.ieeecomputersociety.org/10.1109/LCA.2023.3322700) [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
+   <br> IEEE Computer Architecture Letters, Vol. 23, Num. 01, pp. 9-12. <span style="color: red; "> (CAL 2023) </span>
+   <br>DOI: [10.1109/LCA.2023.3322700](https://doi.ieeecomputersociety.org/10.1109/LCA.2023.3322700) [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
 
   1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook",
