@@ -91,11 +91,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "SFQ counter-based precomputation for large-scale cryogenic VQE machines",
-   <br> Work in progress poster session in the 61st Design Automation Conference. <span style="color: red; "> (DAC 2024 WIP) </span> [[arXiv]](https://arxiv.org/abs/2403.00363)
+   <br> Work in progress poster session in the 61st Design Automation Conference. <span style="color: red; "> (DAC 2024 WIP poster) </span> [[arXiv]](https://arxiv.org/abs/2403.00363)
 
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA",
-   <br> 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2023. [[slide]](/files/QCCC2023_presentation_ueno_share.pdf)
+   <br> 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2023. [[slide]](/files/QCCC2023_presentation_ueno_share.pdf) <span style="color: red; "> (QCCC 2023) </span>
 
   1. Francesco Battistel, Muhammad Usman, Christopher Chamberland, Swamit Tannu, Ramon Overwater, Fabio Sebastiano, <u>Yosuke Ueno</u>, Luka Skoric, Jordy Gloudemans, Damaz de Jong, Wouter Vlothuizen, Jules van Oven, Cornelis Christiaan Bultink,
    <br> "Real-Time Decoding for Fault-Tolerant Quantum Computing: Towards higher decoding speed and lower communication latency",
@@ -103,15 +103,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki and Yutaka Tabuchi,
    <br> "Quantum Error Correction with a Superconducting Decoder",
-   <br> 2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2020.
+   <br> 2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), 2020. <span style="color: red; "> (QCCC 2020) </span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br> "Neuromorphic Graph Processing for Minimum Weight Perfect Matching",
-  <br>  The 2nd R-CCS International Symposium, 2020. (Poster)
+  <br>  The 2nd R-CCS International Symposium, 2020. <span style="color: red; "> (R-CCS 2020 poster) </span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br>  "A Base DNN Model Selection Method for Efficient Transfer Learning toward Smart Society",
-   <br>  The 1st R-CCS International Symposium, 2019. (Poster)
+   <br>  The 1st R-CCS International Symposium, 2019. <span style="color: red; "> (R-CCS 2019 poster) </span>
 
 
 ## Invited Talks
