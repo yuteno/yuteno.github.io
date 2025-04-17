@@ -24,7 +24,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## Journal Publications
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    <br> "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms",
-   <br> IEEE Transactions on Quantum Engineering. <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
+   <br> IEEE Transactions on Quantum Engineering, vol. 6, pp. 1-17. <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
    <br>DOI: [10.1109/TQE.2024.3521442](https://doi.org/10.1109/TQE.2024.3521442)
 
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
