@@ -41,24 +41,24 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## International Conference Proceedings
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
    <br> "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing",
-   <br> 2025 IEEE International Symposium on High-Performance Computer Architecture. <span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+   <br> In Proceedings of 2025 IEEE International Symposium on High-Performance Computer Architecture, pp. 304-320. <span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
    <br><span style="color: red; ">[acceptance rate: 21%]</span>
    <br>DOI: [10.1109/HPCA61900.2025.00033](https://doi.org/10.1109/HPCA61900.2025.00033)
 
   1. Yasunari Suzuki, <u>Yosuke Ueno</u>, Wang Liao, Masamitsu Tanaka, Teruo Tanimoto,
    <br> "Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing",
-   <br>2023 Symposium on VLSI Technology and Circuits. (Invited) <span style="color: red; "> (VLSI 2023) </span>
+   <br> In Proceedings of 2023 Symposium on VLSI Technology and Circuits, pp. 1-2. (Invited) <span style="color: red; "> (VLSI 2023) </span>
    <br>DOI: [10.23919/VLSITechnologyandCir57934.2023.10185351](https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185351)
 
   1. Wang Liao, Yasunari Suzuki, Teruo Tanimoto, <u>Yosuke Ueno</u>, Yuuki Tokunaga,
    <br> "WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code",
-   <br>28th Asia and South Pacific Design Automation Conference. <span style="color: red; "> (ASP-DAC 2023) </span>
+   <br> In Proceedings of 2023 28th Asia and South Pacific Design Automation Conference, pp. 209-215. <span style="color: red; "> (ASP-DAC 2023) </span>
    <br><span style="color: red; ">[acceptance rate: 102/328=31.1%]</span>
    <br>DOI: [10.1145/3566097.3567933](https://doi.org/10.1145/3566097.3567933)
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery",
-   <br>28th IEEE International Symposium on High-Performance Computer Architecture. <span style="color: red; "> (HPCA 2022)
+   <br> In proceedings of 2022 IEEE International Symposium on High-Performance Computer Architecture, pp. 274-287. <span style="color: red; "> (HPCA 2022)
    [[pdf]](/files/QULATIS_author_version.pdf)
    </span>
    <br><span style="color: red; ">[acceptance rate: 80/262=30.5%]</span>
@@ -66,13 +66,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    <br> "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code",
-   <br> 58th IEEE/ACM Design Automation Conference. <span style="color: red; "> (DAC 2021) </span> [[arxiv]](https://arxiv.org/abs/2103.14209)
+   <br> In Proceedings of 2021 58th ACM/IEEE Design Automation Conference, pp. 451-456. <span style="color: red; "> (DAC 2021) </span> [[arxiv]](https://arxiv.org/abs/2103.14209)
    <br><span style="color: red; ">[acceptance rate: 23%]</span>
    <br>DOI: [10.1109/DAC18074.2021.9586326](https://doi.org/10.1109/dac18074.2021.9586326)
 
   1. Motoki Sakurai, <u>Yosuke Ueno</u>, Masaaki Kondo,
   <br> "Path Planning and Moving Obstacle Avoidance with Neuromorphic Computing",
-  <br> IEEE International Conference on Intelligence and Safety for Robotics. <span style="color: red; "> (ISR 2021) </span>
+  <br> In Proceedings of 2021 IEEE International Conference on Intelligence and Safety for Robotics, pp. 209-215. <span style="color: red; "> (ISR 2021) </span>
   <br>DOI: [10.1109/ISR50024.2021.9419537](https://doi.org/10.1109/ISR50024.2021.9419537)
 
 
