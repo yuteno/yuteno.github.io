@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.
 
 ## Preprint
+  1. Shin Nishio, Ryo Wakizaka, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
+   "Online Job Scheduler for Fault-tolerant Quantum Multiprogramming",
+   arXiv preprint arXiv:2505.06741, 2025. [[arXiv]](https://arxiv.org/abs/2505.06741)
+
   1. Daisuke Sakuma, Amin Taherkhani, Tomoki Tsuno, Toshihiko Sasaki, Hikaru Shimizu, Kentaro Teramoto, Andrew Todd, <u>Yosuke Ueno</u>, Michal Hajdušek, Rikizo Ikuta, Rodney Van Meter, Shota Nagayama,
    "An Optical Interconnect for Modular Quantum Computers",
    arXiv preprint arXiv:2412.09299, 2024. [[arXiv]](https://arxiv.org/abs/2412.09299)
