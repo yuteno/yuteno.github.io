@@ -30,6 +30,7 @@ News
 - [December 17, 2024] Our paper "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms" is accepted by IEEE Transactions on Quantum Engineering (TQE). [[arXiv link]](https://arxiv.org/abs/2409.07847)
 - [December 13, 2024] Our new preprint "An Optical Interconnect for Modular Quantum Computers" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2412.09299)
 - [November 26, 2024] Our new preprint "High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2411.17519)
+
 <!---
 <- [October 13, 2024] Our new preprint "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2409.07847)
 --->
