@@ -22,6 +22,9 @@ Education
 
 Work experience
 ======
+* Project Research Associate at the University of Tokyo (part time)
+  * May 2025 to Present
+
 * Special Postdoctoral Researcher at RIKEN Center for Quantum Computing
   * Apr. 2023 to Present
 
@@ -46,7 +49,6 @@ Skills
   * C++
   * Python
   * Verilog / SystemVerilog
-  * Chisel
 
 <!--
 Publications
@@ -60,6 +62,9 @@ See
 
 Awards
 ======
+* Computer Science Research Award for Young Scientists, IPSJ
+<div style="text-align: right;"> Oct. 2025</div>
+
 * Young researcher's award, IEICE, CPSY
 <div style="text-align: right;"> Jun. 2024</div>
 

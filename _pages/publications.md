@@ -163,6 +163,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Invited Talks (in Japanese)
   1. <u>上野洋典</u>,
+  "量子計算機アーキテクチャ分野の研究動向（仮題）",
+  応用物理学会量子エレクトロニクス研究会「量子コンピュータの基礎から現状・展望まで（仮題）」, 2025年12月. (招待講演予定) [[資料]](/files/QS10_invited.pdf)
+
+  1. <u>上野洋典</u>,
   "SFQ回路を用いたリアルタイム量子誤り訂正",
   令和7年電気学会全国大会シンポジウム「ニューロモルフィック計算回路の研究動向」, 2025年3月. (招待講演) [[資料]](/files/neuromorphic_invited.pdf)
 
@@ -195,7 +199,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. 西尾真, 脇坂遼, 佐久間大輔, <u>上野洋典</u>, 鈴木泰成,
   "フォールトトレラント量子マルチプログラミングのためのオンラインスケジューラ",
   第14回情報処理学会量子ソフトウェア研究会, 2025.
-  <br><span style="color: green; ">量子ソフトウェア研究会 学生奨励賞 </span>
+  <br><span style="color: green; ">第14回情報処理学会量子ソフトウェア研究会 学生奨励賞 </span>
 
   1. 齋藤卓, <u>上野洋典</u>, 谷本輝夫, 田渕豊, 玉手修平, 中村宏,
   "格子手術に基づく誤り耐性量子計算のボトルネック解析によるアーキテクチャ検討",
@@ -204,7 +208,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>上野洋典</u>, 今村智史, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
   "変分量子アルゴリズム向け極低温SFQアーキテクチャ",
   第249回情報処理学会システム・アーキテクチャ研究会, 2024. [[資料]](/files/HotSPA2024_ueno.pdf)
-  <br><span style="color: green; ">電子情報通信学会 CPSY研究会優秀発表賞 </span>
+  <br><span style="color: green; ">2024年度電子情報通信学会 CPSY研究会優秀発表賞
+  <br>2025年度情報処理学会 コンピュータサイエンス領域奨励賞
+  </span>
 
   1. <u>上野洋典</u>, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
   "超伝導量子計算機のシステムレベル最適化に向けて 〜QAOAを対象とした場合〜",
@@ -229,8 +235,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>上野洋典</u>, 近藤正章, 田中雅光, 鈴木泰成, 田渕豊,
   "超伝導回路を用いた量子誤り訂正向けオンライン復号器の提案",
    第2回情報処理学会量子ソフトウェア研究会, 2021.
-  <br><span style="color: green; ">量子ソフトウェア研究会 優秀発表賞
-  <br>情報処理学会 コンピュータサイエンス領域奨励賞
+  <br><span style="color: green; ">第2回情報処理学会量子ソフトウェア研究会 優秀発表賞
+  <br>2021年度情報処理学会 コンピュータサイエンス領域奨励賞
   </span>
 
   1. 水野太資, <u>上野洋典</u>, 近藤正章,
@@ -240,13 +246,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. 櫻井元貴, 穴澤徳明, <u>上野洋典</u>, 近藤正章,
   "ニューロモーフィックコンピューティングによる移動障害物を考慮した経路探索手法",
   情報処理学会研究報告, 第233回情報処理学会システム・アーキテクチャ研究会, 2020.
-  <br><span style="color: green; ">システム・アーキテクチャ研究会 若手奨励賞</span>
+  <br><span style="color: green; ">第233回情報処理学会システム・アーキテクチャ研究会 若手奨励賞</span>
 
   1. <u>上野洋典</u>, 近藤正章,
   "重み付きグラフの最大マッチング問題における脳型計算を用いた近似解法の検討",
   第232回情報処理学会システム・アーキテクチャ研究会, 2020.
-  <br><span style="color: green; ">システム・アーキテクチャ研究会 若手奨励賞
-  <br>情報処理学会 山下記念研究賞
+  <br><span style="color: green; ">第232回情報処理学会システム・アーキテクチャ研究会 若手奨励賞
+  <br>2020年度情報処理学会 山下記念研究賞
   </span>
 
   1. 穴澤徳明, <u>上野洋典</u>, 近藤正章,
