@@ -8,10 +8,6 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.
 
 ## Preprint
-  1. Shin Nishio, Ryo Wakizaka, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
-   **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
-   arXiv preprint arXiv:2505.06741, 2025. [[arXiv]](https://arxiv.org/abs/2505.06741)
-
   1. Daisuke Sakuma, Amin Taherkhani, Tomoki Tsuno, Toshihiko Sasaki, Hikaru Shimizu, Kentaro Teramoto, Andrew Todd, <u>Yosuke Ueno</u>, Michal Hajdušek, Rikizo Ikuta, Rodney Van Meter, Shota Nagayama,
    **An Optical Interconnect for Modular Quantum Computers**,
    arXiv preprint arXiv:2412.09299, 2024. [[arXiv]](https://arxiv.org/abs/2412.09299)
@@ -46,6 +42,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## International Conference Proceedings
+  1. Shin Nishio, Ryo Wakizaka, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
+   **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
+   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), 2025. (To appear)
+   <br><span style="color: red; "> (QCE 2025) </span> [[arXiv]](https://arxiv.org/abs/2505.06741)
+
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
    **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
    In Proceedings of 2025 IEEE International Symposium on High-Performance Computer Architecture, pp. 304-320.
@@ -90,6 +91,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Talks and Posters
+  1. Taketo Yamaguhi, Shigeru Yamashita, <u>Yosuke Ueno</u>,
+  **Surface code scheduling with consideration for qubit movement**,
+  25th Asian Quantum Information Science Conference. (To appear)
+  <br><span style="color: red; "> (AQIS 2025 poster) </span>
+
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
    **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
   4th Quantum Computing Theory in Practice conference.

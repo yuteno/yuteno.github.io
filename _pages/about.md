@@ -24,8 +24,8 @@ Research Interest
 
 News
 ======
+- [July 8, 2025] Our Paper "Online Job Scheduler for Fault-tolerant Quantum Multiprogramming" is accepted by QCE2025. [[arXiv link]](https://arxiv.org/abs/2505.06741)
 - [May 16, 2025] I started working as a Project Research Associate at the University of Tokyo.
-- [May 13, 2025] Our new preprint "Online Job Scheduler for Fault-tolerant Quantum Multiprogramming" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2505.06741)
 - [December 29, 2024] Our paper "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing" is accepted by HPCA2025. [[arXiv link]](https://arxiv.org/abs/2412.20486), [Press release [(English)](https://group.ntt/en/newsrelease/2025/03/04/250304a.html) / [(Japanese)](https://group.ntt/jp/newsrelease/2025/03/04/250304a.html)], .
 - [December 17, 2024] Our paper "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms" is accepted by IEEE Transactions on Quantum Engineering (TQE). [[arXiv link]](https://arxiv.org/abs/2409.07847)
 - [December 13, 2024] Our new preprint "An Optical Interconnect for Modular Quantum Computers" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2412.09299)
