@@ -42,7 +42,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## International Conference Proceedings
-  1. Shin Nishio, Ryo Wakizaka, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
+  1. Ryo Wakizaka, Shin Nishio, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
    **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
    In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), 2025. (To appear)
    <br><span style="color: red; "> (QCE 2025) </span> [[arXiv]](https://arxiv.org/abs/2505.06741)
