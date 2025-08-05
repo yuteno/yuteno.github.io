@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yosuke Ueno, a postdoc researcher (SPDR) at [Superconducting Quantum Computing System Research Unit](https://www.riken.jp/en/research/labs/rqc/superconduct_qtm_comput_sys/index.html), RIKEN Ceter for Quantum Computing.
+I'm Yosuke Ueno, a postdoc researcher (SPDR) at [Superconducting Quantum Computing System Research Unit](https://www.riken.jp/en/research/labs/rqc/superconduct_qtm_comput_sys/index.html), RIKEN Center for Quantum Computing.
 Also, I'm a Project Research Associate at [the University of Tokyo](https://hal.ipc.i.u-tokyo.ac.jp/en/),.
 I'm a visiting researcher at [Keio University](https://sites.google.com/view/kondo-lab/home) and [Kyushu University](https://slrc.kyushu-u.ac.jp/en/).
 
