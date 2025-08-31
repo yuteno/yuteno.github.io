@@ -143,6 +143,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Invited Talks and Pannel Sessions
+  1. <u>Yosuke Ueno</u>,
+  **Load/Store Architecture for Fault-Tolerant Quantum Computing**,
+  2nd Quantum Computing Applications and Systems Workshop (QCAS) in conjunction with ICCAD, 2025. (To appear)
+
   1. Warit Asavanant, Shin Nishio, Thinh Le, Ting-Chun Lin, <u>Yosuke Ueno</u>, Akihito Soeda (Moderator),
   Panel session in AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing, 2024.
 
@@ -174,7 +178,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>上野洋典</u>,
   **変分量子アルゴリズム向け極低温超伝導ディジタル回路アーキテクチャ**,
-  情報処理学会システムとLSIの設計技術研究会, DAシンポジウム, 2025年8月.（招待講演予定）
+  情報処理学会システムとLSIの設計技術研究会, DAシンポジウム, 2025年8月.（招待講演）[[資料]](/files/DAsymposium2025_ueno.pdf)
 
   1. <u>上野洋典</u>,
   **SFQ回路を用いたリアルタイム量子誤り訂正**,
