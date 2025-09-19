@@ -290,6 +290,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    第220回情報処理学会システム・アーキテクチャ研究会, 2017.
 
 
+## Lectures
+  1. <u>上野洋典</u>,
+  **誤り耐性量子コンピュータ・アーキテクチャ**,
+  コンピュータ・システム・アーキテクチャサマーワークショップ, 2025年9月.[[資料]](/files/20250910_summer_workshop_lecture_ueno_part1and2.pdf)
+
+  1. <u>上野洋典</u>,
+  **集中講義「コンピュータリテラシー」**,
+  会津大学短期大学部, 2025年8月.
+
+
 ## Misc.
   1. 上野洋典, [東大システム情報学専攻「博士課程進学のすすめ」](https://speakerdeck.com/youten622/dong-da-sisutemuqing-bao-xue-zhuan-gong-xiang-ke-qi-qing-nikao-eru-bo-shi-ke-cheng-jin-xue-nosusume), 2023年4月14日
 
