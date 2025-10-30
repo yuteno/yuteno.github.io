@@ -145,7 +145,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## Invited Talks and Pannel Sessions
   1. <u>Yosuke Ueno</u>,
   **Load/Store Architecture for Fault-Tolerant Quantum Computing**,
-  2nd Quantum Computing Applications and Systems Workshop (QCAS) in conjunction with ICCAD, 2025. (To appear)
+  2nd Quantum Computing Applications and Systems Workshop (QCAS) in conjunction with ICCAD, 2025. [[slide]](/files/20251030_2ndQCAS_LSQCA.pdf)
 
   1. Warit Asavanant, Shin Nishio, Thinh Le, Ting-Chun Lin, <u>Yosuke Ueno</u>, Akihito Soeda (Moderator),
   Panel session in AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing, 2024.

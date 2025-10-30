@@ -24,6 +24,7 @@ Research Interest
 
 News
 ======
+- [Oct. 30, 2025] In [Quantum Computing Applications and Systems Workshop](https://sites.google.com/view/qcas-2025/home?authuser=0) co-located with ICCAD2025, I talk about our [LSQCA paper](https://arxiv.org/abs/2412.20486). [[slide]](/files/20251030_2ndQCAS_LSQCA.pdf)
 - [July 8, 2025] Our Paper "Online Job Scheduler for Fault-tolerant Quantum Multiprogramming" is accepted by QCE2025. [[arXiv link]](https://arxiv.org/abs/2505.06741)
 - [May 16, 2025] I started working as a Project Research Associate at the University of Tokyo.
 - [December 29, 2024] Our paper "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing" is accepted by HPCA2025. [[arXiv link]](https://arxiv.org/abs/2412.20486), [Press release [(English)](https://group.ntt/en/newsrelease/2025/03/04/250304a.html) / [(Japanese)](https://group.ntt/jp/newsrelease/2025/03/04/250304a.html)], .
