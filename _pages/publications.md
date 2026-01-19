@@ -91,7 +91,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Talks and Posters
-  1. Taketo Yamaguhi, Shigeru Yamashita, <u>Yosuke Ueno</u>,
+  1. Taketo Yamaguchi, Shigeru Yamashita, <u>Yosuke Ueno</u>,
   **Surface code scheduling with consideration for qubit movement**,
   25th Asian Quantum Information Science Conference.
   <br><span style="color: red; "> (AQIS 2025 poster) </span>
