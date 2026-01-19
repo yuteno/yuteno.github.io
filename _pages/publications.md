@@ -44,7 +44,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## International Conference Proceedings
   1. Ryo Wakizaka, Shin Nishio, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
    **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
-   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), 2025. (To appear)
+   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), 2025.
    <br><span style="color: red; "> (QCE 2025) </span> [[arXiv]](https://arxiv.org/abs/2505.06741)
 
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
@@ -93,7 +93,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## Talks and Posters
   1. Taketo Yamaguhi, Shigeru Yamashita, <u>Yosuke Ueno</u>,
   **Surface code scheduling with consideration for qubit movement**,
-  25th Asian Quantum Information Science Conference. (To appear)
+  25th Asian Quantum Information Science Conference.
   <br><span style="color: red; "> (AQIS 2025 poster) </span>
 
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
@@ -173,8 +173,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Invited Talks (in Japanese)
   1. <u>上野洋典</u>,
-  **量子計算機アーキテクチャ分野の研究動向（仮題）**,
-  応用物理学会量子エレクトロニクス研究会「量子コンピュータの基礎から現状・展望まで（仮題）」, 2025年12月. (招待講演予定)
+  **量子計算機アーキテクチャ分野の研究動向2025**,
+  応用物理学会量子エレクトロニクス研究会「量子コンピュータ研究の最前線 ～ハードウェアから応用・連携技術まで～」, 2025年12月. (招待講演)[[資料]](/files/20251212_quantum_electronics_ueno.pdf)
 
   1. <u>上野洋典</u>,
   **変分量子アルゴリズム向け極低温超伝導ディジタル回路アーキテクチャ**,
