@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm Yosuke Ueno, a postdoc researcher (SPDR) at [Superconducting Quantum Computing System Research Unit](https://www.riken.jp/en/research/labs/rqc/superconduct_qtm_comput_sys/index.html), RIKEN Center for Quantum Computing.
-Also, I'm a Project Research Associate at [the University of Tokyo](https://hal.ipc.i.u-tokyo.ac.jp/en/),.
+Also, I'm a Project Research Associate at [the University of Tokyo](https://hal.ipc.i.u-tokyo.ac.jp/en/).
 I'm a visiting researcher at [Keio University](https://sites.google.com/view/kondo-lab/home) and [Kyushu University](https://slrc.kyushu-u.ac.jp/en/).
 
 [Researchmap link](https://researchmap.jp/y-ueno)
@@ -22,12 +22,20 @@ Research Interest
 - Quantum error correction
 - Cryogenic computing using single flux quantum (SFQ) logic
 
+Academic Service
+======
+**Program Committee**
+- 2026: [ISCA](https://iscaconf.org/isca2026/) (Ligthweight PC), [DAC](https://dac.com/2026) (TPC)
+
+**Organizing Committee**
+- 2025: [FTQCSA in Conjunction with ISCA2025](https://ftqcsa.github.io/2025/) (Vice Chair)
+
 News
 ======
 - [Oct. 30, 2025] In [Quantum Computing Applications and Systems Workshop](https://sites.google.com/view/qcas-2025/home?authuser=0) co-located with ICCAD2025, I talk about our [LSQCA paper](https://arxiv.org/abs/2412.20486). [[slide]](/files/20251030_2ndQCAS_LSQCA.pdf)
 - [July 8, 2025] Our Paper "Online Job Scheduler for Fault-tolerant Quantum Multiprogramming" is accepted by QCE2025. [[arXiv link]](https://arxiv.org/abs/2505.06741)
 - [May 16, 2025] I started working as a Project Research Associate at the University of Tokyo.
-- [December 29, 2024] Our paper "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing" is accepted by HPCA2025. [[arXiv link]](https://arxiv.org/abs/2412.20486), [Press release [(English)](https://group.ntt/en/newsrelease/2025/03/04/250304a.html) / [(Japanese)](https://group.ntt/jp/newsrelease/2025/03/04/250304a.html)], .
+- [December 29, 2024] Our paper "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing" is accepted by HPCA2025. [[arXiv link]](https://arxiv.org/abs/2412.20486), [Press release [(English)](https://group.ntt/en/newsrelease/2025/03/04/250304a.html) / [(Japanese)](https://group.ntt/jp/newsrelease/2025/03/04/250304a.html)].
 - [December 17, 2024] Our paper "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms" is accepted by IEEE Transactions on Quantum Engineering (TQE). [[arXiv link]](https://arxiv.org/abs/2409.07847)
 - [December 13, 2024] Our new preprint "An Optical Interconnect for Modular Quantum Computers" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2412.09299)
 - [November 26, 2024] Our new preprint "High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2411.17519)

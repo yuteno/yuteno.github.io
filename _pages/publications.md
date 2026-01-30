@@ -7,9 +7,14 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=pmhS7ekAAAAJ">my Google Scholar profile</a>.
 
+
 ## Preprint
-  1. Daisuke Sakuma, Amin Taherkhani, Tomoki Tsuno, Toshihiko Sasaki, Hikaru Shimizu, Kentaro Teramoto, Andrew Todd, <u>Yosuke Ueno</u>, Michal Hajdušek, Rikizo Ikuta, Rodney Van Meter, Shota Nagayama,
-   **An Optical Interconnect for Modular Quantum Computers**,
+  1. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, <u>Yosuke Ueno</u>, Koji Inoue, Teruo Tanimoto,
+   **Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing**,
+   arXiv preprint arXiv:2509.01892, 2025. [[arXiv]](https://arxiv.org/abs/2509.01892)
+
+  1. Daisuke Sakuma, Tomoki Tsuno, Hikaru Shimizu, Yuki Kurosawa, Monet Tokuyama Friedrich, Kentaro Teramoto, Amin Taherkhani, Andrew Todd, <u>Yosuke Ueno</u>, Michal Hajdušek, Rikizo Ikuta, Rodney Van Meter, Toshihiko Sasaki, Shota Nagayama,
+   **Q-Fly: An Optical Interconnect for Modular Quantum Computers**,
    arXiv preprint arXiv:2412.09299, 2024. [[arXiv]](https://arxiv.org/abs/2412.09299)
 
   1. <u>Yosuke Ueno</u>, Taku Saito, Teruo Tanimoto, Yasunari Suzuki, Yutaka Tabuchi, Shuhei Tamate, Hiroshi Nakamura,
@@ -19,7 +24,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    **NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes**,
    arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
-
 
 ## Journal Publications
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
@@ -206,9 +210,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Talks and Posters (in Japanese)
+  1. 猪狩翔太, 平井優我, <u>上野洋典</u>, 鈴木泰成, 山本直樹, 中村 宏,
+  **表面符号上のTransversal CNOTゲートを対象としたwindow decoderの検討**,
+  第17回情報処理学会量子ソフトウェア研究会, 2026.
+
   1. 小堀拓生, 鈴木泰成, <u>上野洋典</u>, 谷本輝夫, 藤堂眞治, 徳永裕己,
   **限定的規模の誤り耐性量子計算に向けた高メモリ効率なロードストア量子計算機アーキテクチャ**,
-  第52回電子情報通信学会量子情報技術研究会, 2025. （口頭発表）
+  第52回電子情報通信学会量子情報技術研究会, 2025.
 
   1. 齋藤卓, <u>上野洋典</u>, 谷本輝夫, 鈴木泰成, 田渕豊, 玉手修平, 中村宏,
   **格子手術に基づく誤り耐性量子計算の長距離配線による効率化**,
