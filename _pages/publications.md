@@ -9,6 +9,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Preprint
+  1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
+   **No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth**,
+   arXiv preprint arXiv:2603.01628, 2026. [[arXiv]](https://arxiv.org/abs/2603.01628)
+
   1. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, <u>Yosuke Ueno</u>, Koji Inoue, Teruo Tanimoto,
    **Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing**,
    arXiv preprint arXiv:2509.01892, 2025. [[arXiv]](https://arxiv.org/abs/2509.01892)
@@ -210,6 +214,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Talks and Posters (in Japanese)
+  1. Fan Wenxuan, Suzuki Yasunari, Ravi Gokul, <u>Ueno Yosuke</u>, Inoue Koji, Tanimoto Teruo
+  **Generalization and Comprehensive Evaluation of BP-OSD Acceleration via Local Syndrome-Based Preprocessing for QLDPC Codes**,
+  第17回情報処理学会量子ソフトウェア研究会, 2026.
+
   1. 猪狩翔太, 平井優我, <u>上野洋典</u>, 鈴木泰成, 山本直樹, 中村 宏,
   **表面符号上のTransversal CNOTゲートを対象としたwindow decoderの検討**,
   第17回情報処理学会量子ソフトウェア研究会, 2026.
