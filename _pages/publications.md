@@ -214,7 +214,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Talks and Posters (in Japanese)
-  1. Fan Wenxuan, Suzuki Yasunari, Ravi Gokul, <u>Ueno Yosuke</u>, Inoue Koji, Tanimoto Teruo
+  1. Fan Wenxuan, Suzuki Yasunari, Ravi Gokul, <u>Ueno Yosuke</u>, Inoue Koji, Tanimoto Teruo,
   **Generalization and Comprehensive Evaluation of BP-OSD Acceleration via Local Syndrome-Based Preprocessing for QLDPC Codes**,
   第17回情報処理学会量子ソフトウェア研究会, 2026.
 
