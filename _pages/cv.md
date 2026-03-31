@@ -22,11 +22,14 @@ Education
 
 Work experience
 ======
+* Research Scientist at RIKEN Center for Quantum Computing
+  * Apr. 2026 to Present
+
 * Project Research Associate at the University of Tokyo (part time)
   * May 2025 to Present
 
 * Special Postdoctoral Researcher at RIKEN Center for Quantum Computing
-  * Apr. 2023 to Present
+  * Apr. 2023 to Mar. 2026
 
 * Visiting postdoc researcher at Technical University of Munich
   * Jun. 2022 to Feb. 2023

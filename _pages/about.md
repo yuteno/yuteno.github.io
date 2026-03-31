@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yosuke Ueno, a postdoc researcher (SPDR) at [Superconducting Quantum Computing System Research Unit](https://www.riken.jp/en/research/labs/rqc/superconduct_qtm_comput_sys/index.html), RIKEN Center for Quantum Computing.
+I'm Yosuke Ueno, a research scientist at [Quantum Computer System Design Research Team](https://www.riken.jp/en/research/labs/rqc/qtm-comput-sd-res/index.html), RIKEN Center for Quantum Computing.
 Also, I'm a Project Research Associate at [the University of Tokyo](https://hal.ipc.i.u-tokyo.ac.jp/en/).
 I'm a visiting researcher at [Keio University](https://sites.google.com/view/kondo-lab/home) and [Kyushu University](https://slrc.kyushu-u.ac.jp/en/).
 
 [Researchmap link](https://researchmap.jp/y-ueno)
 
-[Quantum Papers on Computer Architecture Conferences](https://docs.google.com/spreadsheets/d/1DEjAtAuG9deEltayrWNTJj5ML0_W1EjDqlCMWpAv9is/edit?usp=sharing) with Japanese short abstractions (As of Oct. 2023)
+[Quantum Papers on Computer Architecture Conferences](https://docs.google.com/spreadsheets/d/1DEjAtAuG9deEltayrWNTJj5ML0_W1EjDqlCMWpAv9is/edit?usp=sharing) with Japanese short abstractions (as of Mar. 2026)
 
 Research Interest
 ======
@@ -32,6 +32,7 @@ Academic Service
 
 News
 ======
+- [Apr. 1, 2026] I started working as a Research Scientist at Quantum Computer System Design Research Team, RIKEN Center for Quantum Computing.
 - [Mar. 3, 2026] Our new preprint "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2603.01628)
 - [Oct. 30, 2025] In [Quantum Computing Applications and Systems Workshop](https://sites.google.com/view/qcas-2025/home?authuser=0) co-located with ICCAD2025, I talk about our [LSQCA paper](https://arxiv.org/abs/2412.20486). [[slide]](/files/20251030_2ndQCAS_LSQCA.pdf)
 - [Sep. 2, 2025] Our new preprint "Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2509.01892)
