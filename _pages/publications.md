@@ -10,6 +10,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Preprint
   1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
+   **A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code**,
+   arXiv preprint arXiv:2604.13632, 2026. [[arXiv]](https://arxiv.org/abs/2604.13632)
+
+  1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
    **No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth**,
    arXiv preprint arXiv:2603.01628, 2026. [[arXiv]](https://arxiv.org/abs/2603.01628)
 

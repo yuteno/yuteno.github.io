@@ -32,6 +32,8 @@ Academic Service
 
 News
 ======
+- [Apr. 17, 2026] Our work "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth" is accepted by the poster session of QEC2026. [[arXiv link]](https://arxiv.org/abs/2603.01628)
+- [Apr. 15, 2026] Our new preprint "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2604.13632)
 - [Apr. 1, 2026] I started working as a Research Scientist at Quantum Computer System Design Research Team, RIKEN Center for Quantum Computing.
 - [Mar. 3, 2026] Our new preprint "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2603.01628)
 - [Oct. 30, 2025] In [Quantum Computing Applications and Systems Workshop](https://sites.google.com/view/qcas-2025/home?authuser=0) co-located with ICCAD2025, I talk about our [LSQCA paper](https://arxiv.org/abs/2412.20486). [[slide]](/files/20251030_2ndQCAS_LSQCA.pdf)
