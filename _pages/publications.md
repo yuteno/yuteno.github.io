@@ -34,6 +34,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 ## Journal Publications
+  1. Koji Inoue, Ilkwon Byun, Masamitsu Tanaka, <u>Yosuke Ueno</u>, Naoki Takeuchi, Satoshi Kawakami, Olivia Chen, Dongmoon Min, Teruo Tanimoto, Takatsugu Ono, Hiroshi Nakamura, Jangwoo Kim,
+  **Toward Ultra-High-Speed, Ultra-Low-Power Cryogenic Superconductor Computing**,
+  IEEE Computer, vol. 59 (2), pp. 142-149.
+  <br>DOI: [10.1109/MC.2025.3636343](https://doi.org/10.1109/MC.2025.3636343)
+  <br> <span style="color: red; "> (IEEE Computer 2026)
+
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    **C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms**,
    IEEE Transactions on Quantum Engineering, vol. 6, pp. 1-17.
@@ -103,6 +109,18 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Talks and Posters
+  1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
+  **No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth**,
+  8th International Conference on Quantum Error Correction.
+  <br><span style="color: red; "> (QEC 2026 poster) </span>
+  [[arXiv]](https://arxiv.org/abs/2603.01628)
+
+  1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
+  **A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code**,
+  5th Quantum Computing Theory in Practice Conference.
+  <br><span style="color: red; "> (QCTiP 2026 poster) </span>
+  [[arXiv]](https://arxiv.org/abs/2604.13632)
+
   1. Taketo Yamaguchi, Shigeru Yamashita, <u>Yosuke Ueno</u>,
   **Surface code scheduling with consideration for qubit movement**,
   25th Asian Quantum Information Science Conference.
@@ -110,12 +128,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
    **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
-  4th Quantum Computing Theory in Practice conference.
+  4th Quantum Computing Theory in Practice Conference.
   <br><span style="color: red; "> (QCTiP 2025 poster) </span>
 
   1. Shin Nishio, Ryo Wakizaka, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
   **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
-  4th Quantum Computing Theory in Practice conference.
+  4th Quantum Computing Theory in Practice Conference.
   <br><span style="color: red; "> (QCTiP 2025 poster) </span>
 
   1. Shunsuke Matsuo, Shigeru Yamashita, <u>Yosuke Ueno</u>,
@@ -126,22 +144,23 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    **SFQ counter-based precomputation for large-scale cryogenic VQE machines**,
    Work in progress poster session in the 61st Design Automation Conference.
-   <br><span style="color: red; "> (DAC 2024 WIP poster) </span> [[arXiv]](https://arxiv.org/abs/2403.00363)
+   <br><span style="color: red; "> (DAC 2024 WIP poster) </span>
+   [[arXiv]](https://arxiv.org/abs/2403.00363)
 
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    **Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA**,
    5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems, 2023. [[slide]](/files/QCCC2023_presentation_ueno_share.pdf)
-   <br><span style="color: red; "> (QCCC 2023) </span>
+   <br><span style="color: red; "> (QCCC 2023 talk) </span>
 
   1. Francesco Battistel, Muhammad Usman, Christopher Chamberland, Swamit Tannu, Ramon Overwater, Fabio Sebastiano, <u>Yosuke Ueno</u>, Luka Skoric, Jordy Gloudemans, Damaz de Jong, Wouter Vlothuizen, Jules van Oven, Cornelis Christiaan Bultink,
   **Real-Time Decoding for Fault-Tolerant Quantum Computing: Towards higher decoding speed and lower communication latency**,
   American Physical Society March meeting 2023.
-  <br><span style="color: red; "> (APS 2023) </span>
+  <br><span style="color: red; "> (APS 2023 talk) </span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki and Yutaka Tabuchi,
    **Quantum Error Correction with a Superconducting Decoder**,
    2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems, 2020.
-   <br><span style="color: red; "> (QCCC 2020) </span>
+   <br><span style="color: red; "> (QCCC 2020 talk) </span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo,
   **Neuromorphic Graph Processing for Minimum Weight Perfect Matching**,
@@ -221,6 +240,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. Fan Wenxuan, Suzuki Yasunari, Ravi Gokul, <u>Ueno Yosuke</u>, Inoue Koji, Tanimoto Teruo,
   **Generalization and Comprehensive Evaluation of BP-OSD Acceleration via Local Syndrome-Based Preprocessing for QLDPC Codes**,
   第17回情報処理学会量子ソフトウェア研究会, 2026.
+  <br><span style="color: green; ">第17回情報処理学会量子ソフトウェア研究会 学生奨励賞 </span>
 
   1. 猪狩翔太, 平井優我, <u>上野洋典</u>, 鈴木泰成, 山本直樹, 中村 宏,
   **表面符号上のTransversal CNOTゲートを対象としたwindow decoderの検討**,
