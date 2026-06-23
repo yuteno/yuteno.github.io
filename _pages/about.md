@@ -25,6 +25,7 @@ Research Interest
 Academic Service
 ======
 **Program Committee**
+- 2027: [HPCA](https://conf.researchr.org/home/hpca-2027) (Lightweight PC)
 - 2026: [ISCA](https://iscaconf.org/isca2026/) (Ligthweight PC), [DAC](https://dac.com/2026) (TPC)
 
 **Organizing Committee**
@@ -32,6 +33,7 @@ Academic Service
 
 News
 ======
+- [Jun. 23, 2026] Our new preprint "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2606.21192)
 - [Apr. 17, 2026] Our work "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth" is accepted by the poster session of QEC2026. [[arXiv link]](https://arxiv.org/abs/2603.01628)
 - [Apr. 15, 2026] Our new preprint "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2604.13632)
 - [Apr. 1, 2026] I started working as a Research Scientist at Quantum Computer System Design Research Team, RIKEN Center for Quantum Computing.
