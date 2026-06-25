@@ -29,6 +29,7 @@ Academic Service
 - 2026: [ISCA](https://iscaconf.org/isca2026/) (Ligthweight PC), [DAC](https://dac.com/2026) (TPC)
 
 **Organizing Committee**
+- 2026: [FTQCSA in Conjunction with AQIS2025](https://ftqcsa.github.io/2026/)
 - 2025: [FTQCSA in Conjunction with ISCA2025](https://ftqcsa.github.io/2025/) (Vice Chair)
 
 News
