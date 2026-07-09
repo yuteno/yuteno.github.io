@@ -64,6 +64,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## International Conference Proceedings
+  1. <u>Yosuke Ueno</u>, Shinichi Sunami, Toshihide Hinokuma, Yasunari Suzuki, Akihisa Goban, Hayata Yamasaki, Teruo Tanimoto, Ilkwon Byun,
+   **NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing**,
+   In Proceedings of the IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026. (To appear)
+   <br><span style="color: red; "> (MICRO 2026) </span>
+   <br><span style="color: red; ">[acceptance rate: 213/842=25.2%]</span>
+
   1. Ryo Wakizaka, Shin Nishio, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
    **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
    In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), 2025.

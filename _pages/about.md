@@ -34,6 +34,7 @@ Academic Service
 
 News
 ======
+- [Jul. 8, 2026] Our paper "NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing" is accepted by MICRO2026.
 - [Jun. 23, 2026] Our new preprint "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2606.21192)
 - [Apr. 17, 2026] Our work "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth" is accepted by the poster session of QEC2026. [[arXiv link]](https://arxiv.org/abs/2603.01628)
 - [Apr. 15, 2026] Our new preprint "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2604.13632)
