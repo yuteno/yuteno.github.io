@@ -64,6 +64,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## International Conference Proceedings
+  1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki and Hiroshi Nakamura,
+   **Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code**
+   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE) 2026. (To appear)
+   <br><span style="color: red; "> (QCE 2026 poster) </span>
+
+
+
   1. <u>Yosuke Ueno</u>, Shinichi Sunami, Toshihide Hinokuma, Yasunari Suzuki, Akihisa Goban, Hayata Yamasaki, Teruo Tanimoto, Ilkwon Byun,
    **NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing**,
    In Proceedings of the IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026. (To appear)

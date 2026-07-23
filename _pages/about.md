@@ -25,7 +25,7 @@ Research Interest
 Academic Service
 ======
 **Program Committee**
-- 2027: [HPCA](https://conf.researchr.org/home/hpca-2027) (Lightweight PC)
+- 2027: [HPCA](https://conf.researchr.org/home/hpca-2027) (Lightweight PC), [ASP-DAC](https://www.aspdac.com/aspdac2027/) (TPC)
 - 2026: [ISCA](https://iscaconf.org/isca2026/) (Ligthweight PC), [DAC](https://dac.com/2026) (TPC)
 
 **Organizing Committee**
@@ -34,6 +34,7 @@ Academic Service
 
 News
 ======
+- [Jul. 21, 2026] Our work "Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code" is accepted by the poster session of QCE2026.
 - [Jul. 8, 2026] Our paper "NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing" is accepted by MICRO2026.
 - [Jun. 23, 2026] Our new preprint "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2606.21192)
 - [Apr. 17, 2026] Our work "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth" is accepted by the poster session of QEC2026. [[arXiv link]](https://arxiv.org/abs/2603.01628)
