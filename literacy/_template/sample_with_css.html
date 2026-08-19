@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+  <!-- head要素の内容 -->
+  <link rel="stylesheet" href="sample.css" type="text/css">
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <title>
+  コンピュータリテラシーHTMLサンプル
+  </title>
+  </head>
+  <body>
+  <!-- body要素の内容 -->
+  <h1>見出しレベル1</h1>
+  <h2>見出しレベル2</h2>
+  <h3>見出しレベル3</h3>
+  <p>見出しは一般に本文よりも大きく目立つフォントで表示されるが、フォントサイズの制御のために見出し要素を用いるべきではない。本文中でフォントサイズを変えたい場合はスタイルシートを使うのが、内容と見栄えの制御を分ける考え方に沿ったやり方である。</p>
+  
+  <h2>段落</h2>
+  <p>これは第 1 段落である。多くの UA (ウェブブラウザ) では段落が変わると改行される。 </p>
+  <p>こちらは第 2 段落である。
+  段落の中の改行は無視される。 </p>
+  <p>こちらは第 3 段落である。<br>
+  段落の中で改行したい場合は&lt;br&gt;タグを用いる。</p>  
+  <h2>リンク</h2>
+  <p>
+  <a href="http://www.city.aizuwakamatsu.fukushima.jp/">会津若松市のウェブサイトへのリンク</a><br>
+  <a href="sample_with_css.html">このコンテンツにCSSを適用した例</a>
+  </p>
+  <h2>画像</h2>
+  <p>
+  <img src="einstein.jpg" alt="アインシュタインの写真" width="90" height= "60">
+  </p>
+  
+  <h2>箇条書き</h2>
+  <h3>順序なしリスト (unordered list: ul)</h3>  
+  <ul>
+    <li>牛肉</li>
+    <li>たまねぎ</li>
+  </ul>
+  <h3>順序付きリスト (ordered list: ol)</h3>  
+  <ol>
+    <li>牛肉</li>
+    <li>たまねぎ</li>
+  </ol>
+  <h3>説明（定義）リスト (description/definition list: dl)</h3>  
+  <dl>
+    <dt>牛肉</dt><dd>高いが美味しい</dd>
+    <dt>たまねぎ</dt><dd>切ると涙が出る</dd>
+  </dl>
+  
+  <h2>表</h2>
+  <table>
+  <tbody>
+  <tr>
+      <th>チーム</th> <th>勝</th> <th>負</th> <th>引分</th> <th>ゲーム差</th>
+    </tr>
+    <tr>
+      <td>中日</td> <td>79</td> <td>50</td> <td>5</td> <td>M7</td>
+    </tr>
+    <tr>
+      <td>阪神</td> <td>79</td> <td>56</td> <td>4</td> <td>3</td>
+    </tr>
+  </tbody>
+  </table>
+  <p>tableによる表組みをレイアウト目的に使用することは最新の規格では認められていない。</p>
+  <p>表の枠線・罫線もCSSを使わないと描画されない。以前存在していた表の枠線の太さを定義するborder属性は廃止されている。</p>
+  
+  <h2>整形済み要素</h2>
+  <pre>
+整形済みの要素である．
+　　改行や空白などが，
+　　　　入力したとおりに表示される．
+  </pre>
+
+  <!-- コメント -->
+  <!--
+  複数行にわたるコメントを
+  書いてもよい。
+  コメント中のタグは無視される。
+  <h1>これは見出しである。</h1>
+  -->
+
+  <h2>要素のグループ化・属性指定・CSSによる表示制御</h2>
+  <p>コンテンツの特定の領域に属性を指定し、その領域に特定のスタイルを適用することができる。</p>
+  <h3>id属性の利用例</h2>
+  <p>以下は、divタグを用いて見出しと本文をまとめたブロック全体にmainとsubという名称のid属性を指定している。また、ブロックレベル要素が縦横に縦横に広がりを持つ要素であることも示されている。</p>
+  <div id=main>
+    <h3>id属性をmainとしたブロック</h3>
+    <p>一つのhtml文書の中では、ある名前のid属性は一つの要素にしか指定できない。</p>
+  </div>
+  <div id=sub>
+    <h3>id属性をsubとしたブロック</h3>
+    <p>一つのhtml文書の中では、ある名前のid属性は一つの要素にしか指定できない。</p>
+  </div>
+
+  <h3>class属性の利用例</h2>
+  <p>一つのhtml文書の中では、同じ名前のclass属性を複数の要素に指定できる。以下は、pre要素にcodeという名称のclass属性を指定し、さらに次の段落中の文章の一部にspanタグを用いて同じくcodeという名称のclass属性を指定している。</p>
+<pre class="code">
+std1dc1:~ s13xxxxx[51]$ ls
+Desktop        Documents      Downloads
+Library        Mail           Movies
+Music          News           Pictures
+Public         toSSB.pdf
+std1dc1:~ s13xxxxx[52]$ </pre>
+  <p>>ターミナルで打ち込む命令をコマンドと呼びます。<span class="code"> ls </span>コマンド (list) はその場にあるファイルやフォルダ（ディレクトリ）の一覧を表示するコマンドです。<span class="code"> ls -a </span>のようなオプションをつけることもできます。</span></p>
+  
+  <h3>ブロックレベル要素とインライン要素</h2>
+  <p><div class="block"><span class="inline">ここではブロックレベル要素とインライン要素の違いを示すために、長い文字列をインライン要素として定義して、CSSで文字色と背景色のスタイルを適用した上で、文字列全体をブロックレベル要素として定義し、CSSでブロック全体に枠線のスタイルを適用している。スタイルの適用結果を見ることで、ブロックレベル要素が縦横に縦横に広がりを持つ要素であり、インライン要素は横のみに広がりを持つことがわかる。なお、このhtml文書ではブロックレベル要素とid属性の指定、インライン要素とclass属性の指定を組み合わせているが、この組み合わせは固定されているわけではない。ブロックレベル要素にclass属性を指定することもできるし、インライン要素にid属性を指定することもできる。</span></div></p>
+  
+  
+  <address>
+    作者の名前 2024/5/1更新; <a href="mailto:literacy@u-aizu.ac.jp">メール</a>
+  </address>
+ </body> 
+</html>
