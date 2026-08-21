@@ -1,0 +1,48 @@
+body {
+  font-family:"メイリオ",Meiryo,"ＭＳ Ｐゴシック",Osaka,sans-serif;
+  color: #000000;
+    background-color: #f3c3e3;
+  font-size: 12pt
+}
+h1{
+  font-size:200%;
+  background-color:#d6fc0069;
+}
+table{
+  border-collapse:  collapse;
+  background-color: #f5e171ab;
+}
+th,td {
+  border: solid 1px;
+  padding: 10px;
+}
+pre {
+  padding-top: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 5px;
+}
+div#main {
+  color: #39aaaa;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+div#sub {
+  color: #0099FF;
+  background-color: #0a290a;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 350px;
+}
+.code {
+  font-size: 80%;
+  font-family: Courier, monospace;
+  background-color: #53263c;
+}
+.inline {
+  color: red;
+  background-color: #a02121;
+}
+.block {
+  border: solid 1px;
+}

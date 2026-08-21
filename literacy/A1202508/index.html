@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<!-- saved from url=(0056)https://web-int.u-aizu.ac.jp/course/literacy/sample.html -->
+<html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <!-- head要素の内容 -->
+  <!-- <link rel="stylesheet" href="sample.css" type="text/css"> -->
+  
+  <title>
+  コンピュータリテラシーHTMLサンプル
+  </title>
+      <style>
+		  h2{	
+        color:rgb(13, 66, 240);
+        }
+        p{
+            font-size:18px;
+        }
+        .hisoku{
+          color: #9dc9c7;
+        }
+        #board
+       {
+            border-collapse: collapse;
+            background-color:black;
+        }
+
+        td.cell
+        {
+            writing-mode: horizontal-tb;  
+            border: 2px solid black;
+            background-color: rgb(79, 221, 247);
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+    <script>  
+        function sakusei()
+       {
+            let i,j;
+            let ban = document.getElementById("board");
+            let youbi = ['月','火','水','木','金']
+            let kaisuu = 0 ;
+            ban.textContent = "";  
+            for ( i = 1 ; i < 7 ; i++)
+           {
+                let tr = document.createElement("tr");
+                for ( j = 0 ; j < 5 ; j++)
+            	{
+                	let td = document.createElement("td");
+                	td.className = "cell";
+                  td.id = kaisuu;
+                  td.textContent = "     " + youbi[j] + i + "     ";
+                    td.setAttribute("onclick","ichi(this)");
+                	tr.appendChild(td);
+                  kaisuu = kaisuu + 1;
+                }
+                ban.appendChild(tr);
+            }
+        }
+        function ichi(koko)
+        {
+          let getuyou = "", kayou = ['','', '応用簿記', '地域経済学','プログラミング言語論',''];
+          let suiyou = ['ミクロ経済学基礎','地域産業論','','Eビジネス論','Eビジネス論'];
+          let mokuyou = ['','','財務会計論','経営戦略論','卒研ゼミ',''];
+          let kinyou = ['統計解析','統計解析','原価計算','データベース','データベース',''];
+          let jugyou = [getuyou,kayou,suiyou,mokuyou,kinyou]
+          let id = Number(koko.id);
+          let youbi = id % 5;
+          let n = Math.floor(id / 5);
+          koko.textContent = jugyou[youbi] [n];
+          koko.style.backgroundColor = "white";
+        }
+      
+    </script>
+  </head>
+  <body>
+  <!-- body要素の内容 -->
+  <h1>奥山　菜々美</h1>
+  <h2>会津大学短期大学部2年</h2>
+  <p>中澤ゼミ所属<br>山形県山形市出身<br>好きな食べ物：うどん<br>嫌いな食べ物：なす</p>
+  <p>ひとこと：よろしくお願いします。</p>
+  <h2>My favorite</h2> 
+  <p>
+    <li>好きな色：<span class="hisoku">秘色（淡い水色）</span></li>
+    <li>好きな漫画：暗殺教室</li>
+    <li>本のジャンル：ショートショート</li>
+    <li>調味料：ゆずポン</li>
+    <li>曲ジャンル：ボーカロイド楽曲</li>
+    <li>曲：<a href="https://www.youtube.com/watch?v=wgGtjhG7uiA">怨むよ、レイトサマー</a></li>
+    <li>ゆるキャラ：<a href="https://www.town.asahi.yamagata.jp/usahi/index.html">桃色うさひ</a></li>
+    <img src="./sample_files/00000489.jpg" alt="リアルうさひの写真" width="130" height="158">
+    <img src="./sample_files/usahisutanpu.webp" alt="うさひスタンプの写真" width="177" height="160"><br>
+  </p>
+    <h2>前期時間割</h2>
+  <button onclick="sakusei()">表示</button>
+    <p></p>
+    <table id="board"></table>
+  <address>
+    制作：奥山菜々美 2026/8/19更新; <a href="mailto:A1202508@jc.u-aizu.ac.jp">メール</a>
+  </address>
+  
+
+</body></html>

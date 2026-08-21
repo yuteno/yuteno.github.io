@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<!-- saved from url=(0065)https://web-int.u-aizu.ac.jp/course/literacy/sample_with_css.html -->
+<html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <!-- head要素の内容 -->
+  <link rel="stylesheet" href="./コンピュータリテラシーHTMLサンプル_files/sample.css" type="text/css">
+  
+
+
+  <!DOCTYPE html>
+<html lang="ja">
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <title>猫との相性診断</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: linear-gradient(135deg, #ffd9cc, #dff5ff);
+      color: #911414;
+    }
+
+    header {
+      text-align: center;
+      background: #f78464;
+      color: rgb(255, 253, 253);
+      padding: 35px 20px;
+    }
+
+    .cat {
+      font-size: 70px;
+    }
+
+    h1 {
+      margin: 5px;
+      font-size: 35px;
+    }
+
+    .box {
+      max-width: 650px;
+      margin: 35px auto;
+      padding: 20px;
+    }
+
+    .question {
+      background: white;
+      padding: 30px;
+      border-radius: 25px;
+      box-shadow: 0 8px 20px #0002;
+      text-align: center;
+      display: none;
+    }
+
+    .question h2 {
+      color: #ff704d;
+      margin-bottom: 25px;
+    }
+
+    button {
+      width: 100%;
+      padding: 16px;
+      margin: 10px 0;
+      border: none;
+      border-radius: 15px;
+      background: #fff0eb;
+      color: #555;
+      font-size: 17px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #ff8b6b;
+      color: white;
+    }
+
+    #result {
+      display: none;
+      background: white;
+      padding: 40px 25px;
+      border-radius: 25px;
+      box-shadow: 0 8px 20px #0002;
+      text-align: center;
+    }
+
+    #resultCat {
+      font-size: 90px;
+    }
+
+    #resultTitle {
+      color: #ff704d;
+      font-size: 30px;
+    }
+
+    #resultText {
+      line-height: 1.8;
+    }
+
+    #restart {
+      background: #ff8b6b;
+      color: white;
+    }
+  </style>
+</head>
+
+
+<body>
+
+  <header>
+    <div class="cat">🐱</div>
+    <h1>猫との相性診断</h1>
+    <p>あなたと相性ぴったりの猫を見つけよう！</p>
+  </header>
+
+
+  <div class="box">
+
+    <!-- 質問1 -->
+    <div class="question">
+      <h2>Q1. 休日はどう過ごしたい？</h2>
+
+      <button onclick="answer('sweet')">
+        🛋️ 家でゆっくりしたい
+      </button>
+
+      <button onclick="answer('cool')">
+        🎮 好きなことをして過ごしたい
+      </button>
+
+      <button onclick="answer('active')">
+        🏃 外に出かけたい
+      </button>
+    </div>
+
+
+    <!-- 質問2 -->
+    <div class="question">
+      <h2>Q2. 猫があなたに甘えてきた！</h2>
+
+      <button onclick="answer('sweet')">
+        🥰 いっぱい撫でる！
+      </button>
+
+      <button onclick="answer('cool')">
+        😊 少し撫でて見守る
+      </button>
+
+      <button onclick="answer('active')">
+        😆 一緒に遊ぶ！
+      </button>
+    </div>
+
+
+    <!-- 質問3 -->
+    <div class="question">
+      <h2>Q3. あなたの性格は？</h2>
+
+      <button onclick="answer('sweet')">
+        🌸 優しくて穏やか
+      </button>
+
+      <button onclick="answer('cool')">
+        😎 マイペース
+      </button>
+
+      <button onclick="answer('active')">
+        🔥 元気で行動的
+      </button>
+    </div>
+
+
+    <!-- 質問4 -->
+    <div class="question">
+      <h2>Q4. 猫と遊ぶなら？</h2>
+
+      <button onclick="answer('sweet')">
+        🧶 ゆっくり遊ぶ
+      </button>
+
+      <button onclick="answer('cool')">
+        🐈 猫の気分に合わせる
+      </button>
+
+      <button onclick="answer('active')">
+        🎉 思いっきり遊ぶ！
+      </button>
+    </div>
+
+
+    <!-- 結果 -->
+    <div id="result">
+
+      <div id="resultCat">🐱</div>
+
+      <h2 id="resultTitle"></h2>
+
+      <p id="resultText"></p>
+
+      <button id="restart" onclick="restart()">
+        🔄 もう一度診断する
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <script>
+
+    // 今何問目か
+    let currentQuestion = 0;
+
+    // 点数
+    let sweet = 0;
+    let cool = 0;
+    let active = 0;
+
+    // 質問を全部取得
+    let questions = document.getElementsByClassName("question");
+
+
+    // 最初の質問だけ表示
+    questions[0].style.display = "block";
+
+
+    function answer(type) {
+
+      // 選んだ答えに点数を追加
+      if (type === "sweet") {
+        sweet++;
+      }
+
+      if (type === "cool") {
+        cool++;
+      }
+
+      if (type === "active") {
+        active++;
+      }
+
+
+      // 今の質問を消す
+      questions[currentQuestion].style.display = "none";
+
+
+      // 次の質問へ
+      currentQuestion++;
+
+
+      // まだ質問が残っている場合
+      if (currentQuestion < questions.length) {
+
+        questions[currentQuestion].style.display = "block";
+
+      }
+
+      // 4問終わった場合
+      else {
+
+        showResult();
+
+      }
+
+    }
+
+
+    function showResult() {
+
+      let cat = document.getElementById("resultCat");
+      let title = document.getElementById("resultTitle");
+      let text = document.getElementById("resultText");
+
+
+      // 甘えんぼ猫
+      if (sweet >= cool && sweet >= active) {
+
+        cat.innerHTML = "😻";
+
+        title.innerHTML = "甘えんぼ猫タイプ！";
+
+        text.innerHTML =
+          "あなたは甘えんぼで優しい猫と相性抜群！<br>" +
+          "たくさん撫でて、一緒にのんびり過ごすのがおすすめ。" +
+          "あなたと相性抜群猫:ラグドール、スコティッシュフォールド、メインクーン";
+
+      }
+
+
+      // マイペース猫
+      else if (cool >= sweet && cool >= active) {
+
+        cat.innerHTML = "😼";
+
+        title.innerHTML = "マイペース猫タイプ！";
+
+        text.innerHTML =
+          "あなたは自由気ままな猫と相性抜群！<br>" +
+          "お互いの時間を大切にできる関係になりそう。" +
+          "あなたと相性抜群猫:アメリカンショートヘア、ベンガル、アビシニアン";
+
+      }
+
+
+      // 元気猫
+      else {
+
+        cat.innerHTML = "😸";
+
+        title.innerHTML = "元気いっぱい猫タイプ！";
+
+        text.innerHTML =
+          "あなたは遊ぶのが大好きな猫と相性抜群！<br>" +
+          "一緒にたくさん遊んで楽しく過ごせそう！" +
+          "あなたと相性抜群猫:アビシニアン、ベンガル、アメリカンショートヘア、シャム";
+
+      }
+
+
+      // 結果を表示
+      document.getElementById("result").style.display = "block";
+
+    }
+
+
+    function restart() {
+
+      // 最初に戻す
+      currentQuestion = 0;
+
+      sweet = 0;
+      cool = 0;
+      active = 0;
+
+
+      // 結果を隠す
+      document.getElementById("result").style.display = "none";
+
+
+      // 全質問を隠す
+      for (let i = 0; i < questions.length; i++) {
+        questions[i].style.display = "none";
+      }
+
+
+      // Q1を表示
+      questions[0].style.display = "block";
+
+    }
+
+  </script>
+
+</body>
+
+</html>

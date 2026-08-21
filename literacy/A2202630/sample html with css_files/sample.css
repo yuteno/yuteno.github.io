@@ -1,0 +1,170 @@
+/* ==========================================================================
+   1. 全体設定（YouTubeダークモードの基本色）
+   ========================================================================== */
+:root {
+    --bg-main: #0f0f0f;         /* YouTube標準の漆黒 */
+    --bg-card: #1f1f1f;         /* コンテンツエリアの背景グレー */
+    --bg-table-header: #272727; /* テーブル見出しのグレー */
+    --text-main: #f1f1f1;       /* メインの白文字 */
+    --text-sub: #aaa;           /* 補足用の薄いグレー */
+    --yt-red: #ff0000;          /* YouTubeの赤 */
+    --yt-blue: #3ea6ff;         /* リンク用の鮮やかな青 */
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-family: "YouTube Sans", "Roboto", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", sans-serif;
+    line-height: 1.6;
+    padding: 40px 20px;
+    max-width: 800px; /* 読みやすいように中央に寄せる */
+    margin: 0 auto;
+}
+
+/* ==========================================================================
+   2. 見出しのスタイリング（チャンネルのトップページ風）
+   ========================================================================== */
+h1 {
+    font-size: 28px;
+    color: var(--text-main);
+    border-bottom: 3px solid var(--yt-red); /* YouTubeの赤ライン */
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 20px;
+    color: var(--text-main);
+    background-color: var(--bg-card);
+    padding: 10px 16px;
+    border-radius: 8px; /* YouTube風の角丸 */
+    margin-top: 40px;
+    margin-bottom: 16px;
+    border-left: 5px solid var(--yt-red);
+}
+
+h3 {
+    font-size: 16px;
+    color: var(--text-sub);
+    margin-top: 16px;
+    margin-bottom: 8px;
+    padding-left: 4px;
+}
+
+/* ==========================================================================
+   3. 文章とリンク（見やすさ重視）
+   ========================================================================== */
+p {
+    font-size: 15px;
+    margin-bottom: 12px;
+    color: #e1e1e1;
+    padding-left: 4px;
+}
+
+/* リンクをYouTubeの青色に */
+a {
+    color: var(--yt-blue);
+    text-decoration: none;
+    font-weight: 500;
+    transition: opacity 0.2s;
+    display: inline-block;
+    margin: 4px 0;
+}
+
+a:hover {
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+/* ==========================================================================
+   4. 画像とリスト（カード風にまとめる）
+   ========================================================================== */
+/* アイコン画像のデザイン */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px; /* YouTube風の角丸サムネイル */
+    border: 1px solid #333;
+    margin-top: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+/* リスト（おすすめ動画） */
+ul, ol {
+    background-color: var(--bg-card);
+    padding: 20px 20px 20px 40px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    list-style-position: outside;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: #f1f1f1;
+}
+
+li:last-child {
+    margin-bottom: 0;
+}
+
+/* ==========================================================================
+   5. テーブル（データ比較をリッチな表に）
+   ========================================================================== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    margin-bottom: 12px;
+    background-color: var(--bg-card);
+    border-radius: 12px;
+    overflow: hidden; /* 角丸を効かせるため */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+th, td {
+    padding: 14px 16px;
+    text-align: left;
+    font-size: 14px;
+}
+
+th {
+    background-color: var(--bg-table-header);
+    color: var(--text-main);
+    font-weight: 600;
+    border-bottom: 2px solid #333;
+}
+
+td {
+    border-bottom: 1px solid #282828;
+    color: #e1e1e1;
+}
+
+tr:last-child td {
+    border-bottom: none; /* 最後の行の線は消す */
+}
+
+/* ゆっくりしかすけの行を少し強調 */
+tr:last-child {
+    background-color: rgba(255, 0, 0, 0.05); /* ほんのり赤く */
+}
+
+/* ==========================================================================
+   6. フッター（作成者・メール情報）
+   ========================================================================== */
+address {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid #282828;
+    font-size: 13px;
+    color: var(--text-sub);
+    font-style: normal;
+    text-align: center;
+}
