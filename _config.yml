@@ -145,6 +145,8 @@ exclude:
   - log
   - node_modules
   - package.json
+  - literacy/_README.md
+  - literacy/_template
   - tmp
   - vendor
 keep_files:
@@ -192,6 +194,11 @@ collections:
 
 # Defaults
 defaults:
+  # Student work is published only at its direct URL and must not appear in sitemap.xml.
+  - scope:
+      path: "literacy/**/*"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""

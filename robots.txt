@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /literacy/
+
+Sitemap: https://yuteno.github.io/sitemap.xml
