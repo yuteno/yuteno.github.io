@@ -9,6 +9,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Preprint
+  1. Shota Ikari, Yuga Hirai, Yasunari Suzuki, Hiroshi Nakamura, <u>Yosuke Ueno</u>,
+   **Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC**,
+   arXiv preprint arXiv:2608.11719, 2026. [[arXiv]](https://arxiv.org/abs/2608.11719)
+
   1. Kou Hamada, Hiroki Hamaguchi, <u>Yosuke Ueno</u>, Yasunari Suzuki, Teruo Tanimoto, Nobuyuki Yoshioka,
    **Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation**,
    arXiv preprint arXiv:2606.21192, 2026. [[arXiv]](https://arxiv.org/abs/2606.21192)
@@ -221,6 +225,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Invited Talks (in Japanese)
+  1. 小泉透, <u>上野洋典</u>, 鈴木謙吾, 篤田大知, 松島康祐, 入江英嗣,
+  xSIG10周年BoF **研究が羽ばたくとき～近年のトップカンファレンス採択者と考える、研究の育ち方～**,
+  並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2026）, 2026年8月. [資料](/files/20260805_SWoPP_BOF.pdf)
+
   1. <u>上野洋典</u>,
   **量子計算機アーキテクチャ分野の研究動向2025**,
   応用物理学会量子エレクトロニクス研究会「量子コンピュータ研究の最前線 ～ハードウェアから応用・連携技術まで～」, 2025年12月. (招待講演)[[資料]](/files/20251212_quantum_electronics_ueno.pdf)
@@ -249,12 +257,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   **表面符号を用いた誤り耐性計算へ向けた超伝導デバイスアーキテクチャ**,
   第34回量子情報関東Student Chapter, 2023年9月. (招待講演) [[資料]](/files/QI_kanto_SC.pdf)
 
-  1. 天野 英晴, 谷本輝夫, <u>上野洋典</u>, 小松一彦, 佐野健太郎, 平木敬
+  1. 天野英晴, 谷本輝夫, <u>上野洋典</u>, 小松一彦, 佐野健太郎, 平木敬,
   BoFセッション **コンピュータ研究者は、量子コンピュータを研究する(勉強する)必要があるのだろうか？**,
   並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2023）, 2023年8月. [[資料]](/files/SWoPP_BoF_ueno.pdf)
 
 
 ## Talks and Posters (in Japanese)
+  1. 高松和志, <u>上野洋典</u>, 李峰, 藤巻朗, 田中雅光,
+  **単一磁束量子回路による2値化ニューラルネットワーク向け小面積畳み込み演算比較器の設計**,
+  電子情報通信学会ソサイエティ大会, 2026.
+
   1. Fan Wenxuan, Suzuki Yasunari, Ravi Gokul, <u>Ueno Yosuke</u>, Inoue Koji, Tanimoto Teruo,
   **Generalization and Comprehensive Evaluation of BP-OSD Acceleration via Local Syndrome-Based Preprocessing for QLDPC Codes**,
   第17回情報処理学会量子ソフトウェア研究会, 2026.
@@ -350,12 +362,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Lectures
   1. <u>上野洋典</u>,
+  **量子計算機アーキテクチャ分野の概観**,
+  量子サマースクール2026, 2026年9月. [[資料]](https://speakerdeck.com/youten622/ryoushi-samasukuru-2026-ryoushi-keisanki-akitekucha-bunya-no-gaikan)
+
+  1. <u>上野洋典</u>,
   **誤り耐性量子コンピュータ・アーキテクチャ**,
   コンピュータ・システム・アーキテクチャサマーワークショップ, 2025年9月.[[資料]](/files/20250910_summer_workshop_lecture_ueno_part1and2.pdf)
 
   1. <u>上野洋典</u>,
   **集中講義「コンピュータリテラシー」**,
-  会津大学短期大学部, 2025年8月.
+  会津大学短期大学部, 2025-2026年.
 
 
 ## Misc.
