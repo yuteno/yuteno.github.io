@@ -74,11 +74,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br><span style="color: red; "> (QCE 2026 poster) </span>
 
 
-
   1. <u>Yosuke Ueno</u>, Shinichi Sunami, Toshihide Hinokuma, Yasunari Suzuki, Akihisa Goban, Hayata Yamasaki, Teruo Tanimoto, Ilkwon Byun,
    **NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing**,
    In Proceedings of the IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026. (To appear)
-   <br><span style="color: red; "> (MICRO 2026) </span>
+   <br><span style="color: red; "> (MICRO 2026) </span> [[arXiv]](https://arxiv.org/abs/2609.14478)
    <br><span style="color: red; ">[acceptance rate: 213/842=25.2%]</span>
 
   1. Ryo Wakizaka, Shin Nishio, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
@@ -227,7 +226,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## Invited Talks (in Japanese)
   1. 小泉透, <u>上野洋典</u>, 鈴木謙吾, 篤田大知, 松島康祐, 入江英嗣,
   xSIG10周年BoF **研究が羽ばたくとき～近年のトップカンファレンス採択者と考える、研究の育ち方～**,
-  並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2026）, 2026年8月. [資料](/files/20260805_SWoPP_BOF.pdf)
+  並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2026）, 2026年8月. [[資料]](/files/20260805_SWoPP_BOF.pdf)
 
   1. <u>上野洋典</u>,
   **量子計算機アーキテクチャ分野の研究動向2025**,

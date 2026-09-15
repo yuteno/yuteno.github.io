@@ -36,7 +36,7 @@ News
 ======
 - [Aug. 12, 2026] Our new preprint "Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2608.11719)
 - [Jul. 21, 2026] Our work "Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code" is accepted by the poster session of QCE2026.
-- [Jul. 8, 2026] Our paper "NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing" is accepted by MICRO2026.
+- [Jul. 8, 2026] Our paper "NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing" is accepted by MICRO2026 [[arXiv link]](https://arxiv.org/abs/2609.14478).
 - [Jun. 23, 2026] Our new preprint "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2606.21192)
 - [Apr. 17, 2026] Our work "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth" is accepted by the poster session of QEC2026. [[arXiv link]](https://arxiv.org/abs/2603.01628)
 - [Apr. 15, 2026] Our new preprint "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2604.13632)
