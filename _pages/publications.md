@@ -68,21 +68,20 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## International Conference Proceedings
-  1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki and Hiroshi Nakamura,
-   **Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code**
-   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE) 2026. (To appear)
-   <br><span style="color: red; "> (QCE 2026 poster) </span>
-
-
   1. <u>Yosuke Ueno</u>, Shinichi Sunami, Toshihide Hinokuma, Yasunari Suzuki, Akihisa Goban, Hayata Yamasaki, Teruo Tanimoto, Ilkwon Byun,
    **NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing**,
    In Proceedings of the IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026. (To appear)
    <br><span style="color: red; "> (MICRO 2026) </span> [[arXiv]](https://arxiv.org/abs/2609.14478)
    <br><span style="color: red; ">[acceptance rate: 213/842=25.2%]</span>
 
+  1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki and Hiroshi Nakamura,
+   **Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code**
+   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), pp. 702-703, 2026.
+   <br><span style="color: red; "> (QCE 2026 poster) </span>
+
   1. Ryo Wakizaka, Shin Nishio, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
    **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
-   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), 2025.
+   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), pp. 779-790, 2025.
    <br>DOI:[10.1109/QCE65121.2025.00090](https://doi.org/10.1109/QCE65121.2025.00090)
    <br><span style="color: red; "> (QCE 2025) </span> [[arXiv]](https://arxiv.org/abs/2505.06741)
 
@@ -224,6 +223,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Invited Talks (in Japanese)
+  1. <u>上野洋典</u>,
+  **量子計算機アーキテクチャ分野の研究動向2026**,
+  SQAI全体会議, 2026年9月. (招待講演)[[資料]](/files/20260929_SQAI_invited_talk_ueno.pdf)
+
   1. 小泉透, <u>上野洋典</u>, 鈴木謙吾, 篤田大知, 松島康祐, 入江英嗣,
   xSIG10周年BoF **研究が羽ばたくとき～近年のトップカンファレンス採択者と考える、研究の育ち方～**,
   並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2026）, 2026年8月. [[資料]](/files/20260805_SWoPP_BOF.pdf)
@@ -278,6 +281,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. 小堀拓生, 鈴木泰成, <u>上野洋典</u>, 谷本輝夫, 藤堂眞治, 徳永裕己,
   **限定的規模の誤り耐性量子計算に向けた高メモリ効率なロードストア量子計算機アーキテクチャ**,
   第52回電子情報通信学会量子情報技術研究会, 2025.
+  <br><span style="color: green; ">電子情報通信学会 第52回量子情報技術研究会 学生発表賞</span>
 
   1. 齋藤卓, <u>上野洋典</u>, 谷本輝夫, 鈴木泰成, 田渕豊, 玉手修平, 中村宏,
   **格子手術に基づく誤り耐性量子計算の長距離配線による効率化**,
@@ -360,6 +364,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Lectures
+  1. <u>上野洋典</u>,
+  **今さら聞けない量子誤り訂正**,
+  第4回SQAI今さら聞けない？？？, 2026年9月. [[資料]](/files/20260928_SQAI_QEC_lecture_ueno.pdf)
+
   1. <u>上野洋典</u>,
   **量子計算機アーキテクチャ分野の概観**,
   量子サマースクール2026, 2026年9月. [[資料]](https://speakerdeck.com/youten622/ryoushi-samasukuru-2026-ryoushi-keisanki-akitekucha-bunya-no-gaikan)
