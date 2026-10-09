@@ -129,6 +129,17 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Talks and Posters
+  1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki and Hiroshi Nakamura,
+   **Direct Implementation of the Logical C Gate in the Surface Code**
+   Quantum Innovation 2026.
+   <br><span style="color: red; "> (QI 2026 poster) </span>
+
+  1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
+  **A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code**,
+  Quantum Innovation 2026.
+  <br><span style="color: red; "> (QI 2026 poster) </span>
+  [[arXiv]](https://arxiv.org/abs/2604.13632)
+
   1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
   **No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth**,
   8th International Conference on Quantum Error Correction.
@@ -150,11 +161,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
   4th Quantum Computing Theory in Practice Conference.
   <br><span style="color: red; "> (QCTiP 2025 poster) </span>
+  [[arXiv]](https://arxiv.org/abs/2409.07847)
 
   1. Shin Nishio, Ryo Wakizaka, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
   **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
   4th Quantum Computing Theory in Practice Conference.
   <br><span style="color: red; "> (QCTiP 2025 poster) </span>
+  [[arXiv]](https://arxiv.org/abs/2505.06741)
 
   1. Shunsuke Matsuo, Shigeru Yamashita, <u>Yosuke Ueno</u>,
   **An Optimization Method for Initial Placement of Logical Qubits in Lattice Surgery using Simulated Annealing**,
