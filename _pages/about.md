@@ -25,7 +25,7 @@ Research Interest
 Academic Service
 ======
 **Program Committee**
-- 2027: [HPCA](https://conf.researchr.org/home/hpca-2027) (Lightweight PC), [ASP-DAC](https://www.aspdac.com/aspdac2027/) (TPC)
+- 2027: [HPCA](https://conf.researchr.org/home/hpca-2027) (Lightweight PC), [ASP-DAC](https://www.aspdac.com/aspdac2027/) (TPC), [DAC](https://dac.com/2027) (TPC)
 - 2026: [ISCA](https://iscaconf.org/isca2026/) (Ligthweight PC), [DAC](https://dac.com/2026) (TPC), [MICRO](https://www.microarch.org/micro59/) (Artifact review), [CANDAR](https://is-candar.org/) (TPC)
 
 **Organizing Committee**
