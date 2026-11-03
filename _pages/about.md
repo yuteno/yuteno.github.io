@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm Yosuke Ueno, a research scientist at [Quantum Computer System Design Research Team](https://www.riken.jp/en/research/labs/rqc/qtm-comput-sd-res/index.html), RIKEN Center for Quantum Computing.
-Also, I'm a Project Research Associate at [the University of Tokyo](https://hal.ipc.i.u-tokyo.ac.jp/en/).
+Also, I'm a Project Research Associate at [the University of Tokyo](https://hal.ipc.i.u-tokyo.ac.jp/en/) and a visiting scientist at [NanoQT](https://nano-qt.com/).
 I'm a visiting researcher at [Keio University](https://sites.google.com/view/kondo-lab/home) and [Kyushu University](https://slrc.kyushu-u.ac.jp/en/).
 
 [Researchmap link](https://researchmap.jp/y-ueno)
@@ -34,7 +34,7 @@ Academic Service
 
 News
 ======
-- [Aug. 12, 2026] Our new preprint "Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2608.11719)
+- [Nov. 3, 2026] Our paper "PACE: Enabling Fast Transversal CNOTs through Decoder-Aware Co-Design on Surface Code" is accepted by HPCA2027. [[arXiv link]](https://arxiv.org/abs/2608.11719)
 - [Jul. 21, 2026] Our work "Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code" is accepted by the poster session of QCE2026.
 - [Jul. 8, 2026] Our paper "NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing" is accepted by MICRO2026 [[arXiv link]](https://arxiv.org/abs/2609.14478).
 - [Jun. 23, 2026] Our new preprint "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2606.21192)
@@ -44,7 +44,7 @@ News
 - [Mar. 3, 2026] Our new preprint "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2603.01628)
 - [Oct. 30, 2025] In [Quantum Computing Applications and Systems Workshop](https://sites.google.com/view/qcas-2025/home?authuser=0) co-located with ICCAD2025, I talk about our [LSQCA paper](https://arxiv.org/abs/2412.20486). [[slide]](/files/20251030_2ndQCAS_LSQCA.pdf)
 - [Sep. 2, 2025] Our new preprint "Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing" is now on arXiv. [[arXiv link]](https://arxiv.org/abs/2509.01892)
-- [July 8, 2025] Our Paper "Online Job Scheduler for Fault-tolerant Quantum Multiprogramming" is accepted by QCE2025. [[arXiv link]](https://arxiv.org/abs/2505.06741)
+- [July 8, 2025] Our paper "Online Job Scheduler for Fault-tolerant Quantum Multiprogramming" is accepted by QCE2025. [[arXiv link]](https://arxiv.org/abs/2505.06741)
 - [May 16, 2025] I started working as a Project Research Associate at the University of Tokyo.
 - [December 29, 2024] Our paper "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing" is accepted by HPCA2025. [[arXiv link]](https://arxiv.org/abs/2412.20486), [Press release [(English)](https://group.ntt/en/newsrelease/2025/03/04/250304a.html) / [(Japanese)](https://group.ntt/jp/newsrelease/2025/03/04/250304a.html)].
 - [December 17, 2024] Our paper "C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms" is accepted by IEEE Transactions on Quantum Engineering (TQE). [[arXiv link]](https://arxiv.org/abs/2409.07847)
