@@ -43,7 +43,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. Shota Ikari, Yuga Hirai, Yasunari Suzuki, Hiroshi Nakamura, <u>Yosuke Ueno<sup>*</sup></u>,
    **PACE: Enabling Fast Transversal CNOTs through Decoder-Aware Co-Design on Surface Code**,
    In Proceedings of 33rd IEEE International Symposium on High-Performance Computer Architecture, 2027. (To appear)
-   <br><span style="color: red; "> (HPCA 2027) </span>   [[arXiv]](https://arxiv.org/abs/2608.11719)
+   <br><span style="color: red; "> (HPCA 2027) </span> [[arXiv]](https://arxiv.org/abs/2608.11719)
    <br><span style="color: red; ">[acceptance rate: 190/1113=17.9%]</span>
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Shinichi Sunami, Toshihide Hinokuma, Yasunari Suzuki, Akihisa Goban, Hayata Yamasaki, Teruo Tanimoto, Ilkwon Byun,
@@ -52,7 +52,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    <br><span style="color: red; "> (MICRO 2026) </span> [[arXiv]](https://arxiv.org/abs/2609.14478) [[GitHub]](https://github.com/naqsim/naqsim)
    <br><span style="color: red; ">[acceptance rate: 220/842=25.6%]</span>
 
-  1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki and Hiroshi Nakamura,
+  1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki, Hiroshi Nakamura,
    **Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code**
    In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), pp. 702-703, 2026.
    <br><span style="color: red; "> (QCE 2026 poster) </span>
@@ -85,7 +85,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    **QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery**,
-   In proceedings of 2022 IEEE International Symposium on High-Performance Computer Architecture, pp. 274-287.
+   In Proceedings of 2022 IEEE International Symposium on High-Performance Computer Architecture, pp. 274-287.
    <br>DOI: [10.1109/HPCA53966.2022.00028](https://doi.org/10.1109/HPCA53966.2022.00028)
    <br><span style="color: red; "> (HPCA 2022)
    [[pdf]](/files/QULATIS_author_version.pdf)
@@ -96,7 +96,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    **QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code**,
    In Proceedings of 2021 58th ACM/IEEE Design Automation Conference, pp. 451-456.
    <br>DOI: [10.1109/DAC18074.2021.9586326](https://doi.org/10.1109/dac18074.2021.9586326)
-   <br> <span style="color: red; "> (DAC 2021) </span> [[arxiv]](https://arxiv.org/abs/2103.14209)
+   <br> <span style="color: red; "> (DAC 2021) </span> [[arXiv]](https://arxiv.org/abs/2103.14209)
    <br><span style="color: red; ">[acceptance rate: 23%]</span>
 
   1. Motoki Sakurai, <u>Yosuke Ueno</u>, Masaaki Kondo,
@@ -110,7 +110,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   **Toward Ultra-High-Speed, Ultra-Low-Power Cryogenic Superconductor Computing**,
   IEEE Computer, vol. 59 (2), pp. 142-149.
   <br>DOI: [10.1109/MC.2025.3636343](https://doi.org/10.1109/MC.2025.3636343)
-  <br> <span style="color: red; "> (IEEE Computer 2026)
+  <br> <span style="color: red; "> (IEEE Computer 2026) </span>
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    **C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms**,
@@ -134,7 +134,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 ## Talks and Posters
-  1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki and Hiroshi Nakamura,
+  1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki, Hiroshi Nakamura,
   **Direct Implementation of the Logical C Gate in the Surface Code**
   The International Symposium on Quantum Science, Technology and Innovation, 2026.
   <br><span style="color: red; "> (QI 2026 poster) </span>
@@ -166,7 +166,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
   4th Quantum Computing Theory in Practice Conference.
   <br><span style="color: red; "> (QCTiP 2025 poster) </span>
-  [[arXiv]](https://arxiv.org/abs/2409.07847)
+  [[arXiv]](https://arxiv.org/abs/2412.20486)
 
   1. Shin Nishio, Ryo Wakizaka, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
   **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
@@ -195,7 +195,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   American Physical Society March meeting 2023.
   <br><span style="color: red; "> (APS 2023 talk) </span>
 
-  1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki and Yutaka Tabuchi,
+  1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
    **Quantum Error Correction with a Superconducting Decoder**,
    2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems, 2020.
    <br><span style="color: red; "> (QCCC 2020 talk) </span>
@@ -211,7 +211,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br><span style="color: red; "> (R-CCS 2019 poster) </span>
 
 
-## Invited Talks and Pannel Sessions
+## Invited Talks and Panel Sessions
   1. <u>Yosuke Ueno</u>,
   **Load/Store Architecture for Fault-Tolerant Quantum Computing**,
   2nd Quantum Computing Applications and Systems Workshop (QCAS) in conjunction with ICCAD, 2025. [[slide]](/files/20251030_2ndQCAS_LSQCA.pdf)
@@ -225,7 +225,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>Yosuke Ueno</u>,
   **Online surface code decoder with a superconducting circuit**,
-  [Kobe Quantum Error Correction Symposium](https://rqc.riken.jp/events/20230628_56th-rqc-seminar.html), RIKEN Center for Computational Science, 2024. [[slide]](/files/20240123_QuECS_ueno.pdf)
+  [Kobe Quantum Error Correction Symposium](https://sites.google.com/view/kobe-qec-symposium-2024), RIKEN Center for Computational Science, 2024. [[slide]](/files/20240123_QuECS_ueno.pdf)
 
   1. <u>Yosuke Ueno</u>,
   **Online surface code decoder with a superconducting circuit**,
@@ -235,7 +235,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   **Online decoding of surface code with a superconducting circuit**,
   Workshop on Real-Time Decoding for Fault-Tolerant Quantum Computing in IEEE Quantum week, 2022. [[slide]](/files/Yosuke_Ueno_QCE2022_main.pdf)
 
-  1. <u>Yosuke Ueno</u>, Takayuki Hoshi, Atsushi Hiyama, and Masahiko Inami,
+  1. <u>Yosuke Ueno</u>, Takayuki Hoshi, Atsushi Hiyama, Masahiko Inami,
   **Virtual Experiments of Augmentation of Transparent Cockpit**,
   24th International Display Workshops (IDW), 2017.
 

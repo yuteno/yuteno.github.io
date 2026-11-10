@@ -17,7 +17,7 @@ Education
  <div style="text-align: right;">Apr. 2017 - Mar. 2019</div>
 * Bachelor course in Mathematical Engineering and Information Physics, the University of Tokyo
 <div style="text-align: right;">Apr. 2013 - Mar. 2017</div>
-* Graduated from Mojigakuen High school, Fukuoka, Japan
+* Graduated from Mojigakuen High School, Fukuoka, Japan
 <div style="text-align: right;"> Mar. 2013</div>
 
 Work experience
@@ -48,7 +48,7 @@ Work experience
 
 Skills
 ======
-* Programing Language
+* Programming Languages
   * C++
   * Python
   * Verilog / SystemVerilog
@@ -89,7 +89,7 @@ Awards
 Scholarships and Grants
 ======
 * JSPS Overseas Challenge Program for Young Researchers
-<div style="text-align: right;">May. 2022 - Feb. 2023</div>
+<div style="text-align: right;">May  2022 - Feb. 2023</div>
 
 * UTokyo Toyota-Dwango AI scholarship
 <div style="text-align: right;">Apr. 2021 - Mar. 2022</div>
