@@ -67,7 +67,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
    In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture, pp. 304-320.
    <br>DOI:[10.1109/HPCA61900.2025.00033](https://doi.org/10.1109/HPCA61900.2025.00033)
-   <br><span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+   <br><span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
    <br><span style="color: red; ">[acceptance rate: 21%]</span>
 
   1. Yasunari Suzuki, <u>Yosuke Ueno</u>, Wang Liao, Masamitsu Tanaka, Teruo Tanimoto,
@@ -116,7 +116,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
    **C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms**,
    IEEE Transactions on Quantum Engineering, vol. 6, pp. 1-17.
    <br>DOI: [10.1109/TQE.2024.3521442](https://doi.org/10.1109/TQE.2024.3521442)
-   <br> <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
+   <br> <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    **Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines**,
@@ -135,13 +135,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Talks and Posters
   1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki and Hiroshi Nakamura,
-   **Direct Implementation of the Logical C Gate in the Surface Code**
-   Quantum Innovation 2026.
-   <br><span style="color: red; "> (QI 2026 poster) </span>
+  **Direct Implementation of the Logical C Gate in the Surface Code**
+  The International Symposium on Quantum Science, Technology and Innovation, 2026.
+  <br><span style="color: red; "> (QI 2026 poster) </span>
 
   1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
   **A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code**,
-  Quantum Innovation 2026.
+  The International Symposium on Quantum Science, Technology and Innovation, 2026.
   <br><span style="color: red; "> (QI 2026 poster) </span>
   [[arXiv]](https://arxiv.org/abs/2604.13632)
 
