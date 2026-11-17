@@ -12,92 +12,92 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Preprint
   1. Kou Hamada, Hiroki Hamaguchi, <u>Yosuke Ueno</u>, Yasunari Suzuki, Teruo Tanimoto, Nobuyuki Yoshioka,
-   **Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation**,
-   arXiv preprint arXiv:2606.21192, 2026. [[arXiv]](https://arxiv.org/abs/2606.21192)
+  **Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation**,
+  arXiv preprint arXiv:2606.21192, 2026. [[arXiv]](https://arxiv.org/abs/2606.21192)
 
   1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
-   **A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code**,
-   arXiv preprint arXiv:2604.13632, 2026. [[arXiv]](https://arxiv.org/abs/2604.13632)
+  **A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code**,
+  arXiv preprint arXiv:2604.13632, 2026. [[arXiv]](https://arxiv.org/abs/2604.13632)
 
   1. Yuga Hirai, Shota Ikari, <u>Yosuke Ueno</u>, Yasunari Suzuki,
-   **No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth**,
-   arXiv preprint arXiv:2603.01628, 2026. [[arXiv]](https://arxiv.org/abs/2603.01628)
+  **No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth**,
+  arXiv preprint arXiv:2603.01628, 2026. [[arXiv]](https://arxiv.org/abs/2603.01628)
 
-  1. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, <u>Yosuke Ueno</u>, Koji Inoue, Teruo Tanimoto,
-   **Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing**,
-   arXiv preprint arXiv:2509.01892, 2025. [[arXiv]](https://arxiv.org/abs/2509.01892)
+  1. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, <u>Yosuke Ueno</u>, Ilkwon Byun, Koji Inoue, Teruo Tanimoto,
+  **Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing**,
+  arXiv preprint arXiv:2509.01892, 2025. [[arXiv]](https://arxiv.org/abs/2509.01892)
 
   1. Daisuke Sakuma, Tomoki Tsuno, Hikaru Shimizu, Yuki Kurosawa, Monet Tokuyama Friedrich, Kentaro Teramoto, Amin Taherkhani, Andrew Todd, <u>Yosuke Ueno</u>, Michal Hajdušek, Rikizo Ikuta, Rodney Van Meter, Toshihiko Sasaki, Shota Nagayama,
-   **Q-Fly: An Optical Interconnect for Modular Quantum Computers**,
-   arXiv preprint arXiv:2412.09299, 2024. [[arXiv]](https://arxiv.org/abs/2412.09299)
+  **Q-Fly: An Optical Interconnect for Modular Quantum Computers**,
+  arXiv preprint arXiv:2412.09299, 2024. [[arXiv]](https://arxiv.org/abs/2412.09299)
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Taku Saito, Teruo Tanimoto, Yasunari Suzuki, Yutaka Tabuchi, Shuhei Tamate, Hiroshi Nakamura,
-   **High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture**,
-   arXiv preprint arXiv:2411.17519, 2024. [[arXiv]](https://arxiv.org/abs/2411.17519)
+  **High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture**,
+  arXiv preprint arXiv:2411.17519, 2024. [[arXiv]](https://arxiv.org/abs/2411.17519)
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
-   **NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes**,
-   arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
+  **NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes**,
+  arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 ## International Conference Proceedings
   1. Shota Ikari, Yuga Hirai, Yasunari Suzuki, Hiroshi Nakamura, <u>Yosuke Ueno<sup>*</sup></u>,
-   **PACE: Enabling Fast Transversal CNOTs through Decoder-Aware Co-Design on Surface Code**,
-   In Proceedings of 33rd IEEE International Symposium on High-Performance Computer Architecture, 2027. (To appear)
-   <br><span style="color: red; "> (HPCA 2027) </span> [[arXiv]](https://arxiv.org/abs/2608.11719)
-   <br><span style="color: red; ">[acceptance rate: 190/1113=17.9%]</span>
+  **PACE: Enabling Fast Transversal CNOTs through Decoder-Aware Co-Design on Surface Code**,
+  In Proceedings of 33rd IEEE International Symposium on High-Performance Computer Architecture, 2027. (To appear)
+  <br><span style="color: red; "> (HPCA 2027) </span> [[arXiv]](https://arxiv.org/abs/2608.11719)
+  <br><span style="color: red; ">[acceptance rate: 190/1113=17.9%]</span>
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Shinichi Sunami, Toshihide Hinokuma, Yasunari Suzuki, Akihisa Goban, Hayata Yamasaki, Teruo Tanimoto, Ilkwon Byun,
-   **NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing**,
-   In Proceedings of the IEEE/ACM International Symposium on Microarchitecture (MICRO), pp. 1196-1213, 2026.
-   <br><span style="color: red; "> (MICRO 2026) </span> [[arXiv]](https://arxiv.org/abs/2609.14478) [[GitHub]](https://github.com/naqsim/naqsim)
-   <br><span style="color: red; ">[acceptance rate: 220/842=25.6%]</span>
+  **NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing**,
+  In Proceedings of the IEEE/ACM International Symposium on Microarchitecture (MICRO), pp. 1196-1213, 2026.
+  <br><span style="color: red; "> (MICRO 2026) </span> [[arXiv]](https://arxiv.org/abs/2609.14478) [[GitHub]](https://github.com/naqsim/naqsim)
+  <br><span style="color: red; ">[acceptance rate: 220/842=25.6%]</span>
 
   1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki, Hiroshi Nakamura,
-   **Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code**
-   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), pp. 702-703, 2026.
-   <br><span style="color: red; "> (QCE 2026 poster) </span>
+  **Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code**
+  In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), pp. 702-703, 2026.
+  <br><span style="color: red; "> (QCE 2026 poster) </span>
 
   1. Ryo Wakizaka, Shin Nishio, Daisuke Sakuma, <u>Yosuke Ueno</u>, Yasunari Suzuki,
-   **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
-   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), pp. 779-790, 2025.
-   <br>DOI:[10.1109/QCE65121.2025.00090](https://doi.org/10.1109/QCE65121.2025.00090)
-   <br><span style="color: red; "> (QCE 2025) </span> [[arXiv]](https://arxiv.org/abs/2505.06741)
+  **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**,
+  In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), pp. 779-790, 2025.
+  <br>DOI:[10.1109/QCE65121.2025.00090](https://doi.org/10.1109/QCE65121.2025.00090)
+  <br><span style="color: red; "> (QCE 2025) </span> [[arXiv]](https://arxiv.org/abs/2505.06741)
 
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
-   **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
-   In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture, pp. 304-320.
-   <br>DOI:[10.1109/HPCA61900.2025.00033](https://doi.org/10.1109/HPCA61900.2025.00033)
-   <br><span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
-   <br><span style="color: red; ">[acceptance rate: 21%]</span>
+  **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
+  In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture, pp. 304-320.
+  <br>DOI:[10.1109/HPCA61900.2025.00033](https://doi.org/10.1109/HPCA61900.2025.00033)
+  <br><span style="color: red; "> (HPCA 2025) </span> [[arXiv]](https://arxiv.org/abs/2412.20486)
+  <br><span style="color: red; ">[acceptance rate: 21%]</span>
 
   1. Yasunari Suzuki, <u>Yosuke Ueno</u>, Wang Liao, Masamitsu Tanaka, Teruo Tanimoto,
-   **Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing**,
-   In Proceedings of 2023 Symposium on VLSI Technology and Circuits, pp. 1-2. (Invited)
-   <br>DOI: [10.23919/VLSITechnologyandCir57934.2023.10185351](https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185351)
-   <br> <span style="color: red; "> (VLSI 2023) </span>
+  **Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing**,
+  In Proceedings of 2023 Symposium on VLSI Technology and Circuits, pp. 1-2. (Invited)
+  <br>DOI: [10.23919/VLSITechnologyandCir57934.2023.10185351](https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185351)
+  <br> <span style="color: red; "> (VLSI 2023) </span>
 
   1. Wang Liao, Yasunari Suzuki, Teruo Tanimoto, <u>Yosuke Ueno</u>, Yuuki Tokunaga,
-   **WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code**,
-   In Proceedings of 2023 28th Asia and South Pacific Design Automation Conference, pp. 209-215.
-   <br>DOI: [10.1145/3566097.3567933](https://doi.org/10.1145/3566097.3567933)
-   <br><span style="color: red; "> (ASP-DAC 2023) </span>
-   <br><span style="color: red; ">[acceptance rate: 102/328=31.1%]</span>
+  **WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code**,
+  In Proceedings of 2023 28th Asia and South Pacific Design Automation Conference, pp. 209-215.
+  <br>DOI: [10.1145/3566097.3567933](https://doi.org/10.1145/3566097.3567933)
+  <br><span style="color: red; "> (ASP-DAC 2023) </span>
+  <br><span style="color: red; ">[acceptance rate: 102/328=31.1%]</span>
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
-   **QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery**,
-   In Proceedings of 2022 IEEE International Symposium on High-Performance Computer Architecture, pp. 274-287.
-   <br>DOI: [10.1109/HPCA53966.2022.00028](https://doi.org/10.1109/HPCA53966.2022.00028)
-   <br><span style="color: red; "> (HPCA 2022)
-   [[pdf]](/files/QULATIS_author_version.pdf)
-   </span>
-   <br><span style="color: red; ">[acceptance rate: 80/262=30.5%]</span>
+  **QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery**,
+  In Proceedings of 2022 IEEE International Symposium on High-Performance Computer Architecture, pp. 274-287.
+  <br>DOI: [10.1109/HPCA53966.2022.00028](https://doi.org/10.1109/HPCA53966.2022.00028)
+  <br><span style="color: red; "> (HPCA 2022)
+  [[pdf]](/files/QULATIS_author_version.pdf)
+  </span>
+  <br><span style="color: red; ">[acceptance rate: 80/262=30.5%]</span>
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
-   **QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code**,
-   In Proceedings of 2021 58th ACM/IEEE Design Automation Conference, pp. 451-456.
-   <br>DOI: [10.1109/DAC18074.2021.9586326](https://doi.org/10.1109/dac18074.2021.9586326)
-   <br> <span style="color: red; "> (DAC 2021) </span> [[arXiv]](https://arxiv.org/abs/2103.14209)
-   <br><span style="color: red; ">[acceptance rate: 23%]</span>
+  **QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code**,
+  In Proceedings of 2021 58th ACM/IEEE Design Automation Conference, pp. 451-456.
+  <br>DOI: [10.1109/DAC18074.2021.9586326](https://doi.org/10.1109/dac18074.2021.9586326)
+  <br> <span style="color: red; "> (DAC 2021) </span> [[arXiv]](https://arxiv.org/abs/2103.14209)
+  <br><span style="color: red; ">[acceptance rate: 23%]</span>
 
   1. Motoki Sakurai, <u>Yosuke Ueno</u>, Masaaki Kondo,
   **Path Planning and Moving Obstacle Avoidance with Neuromorphic Computing**,
@@ -113,24 +113,22 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br> <span style="color: red; "> (IEEE Computer 2026) </span>
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
-   **C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms**,
-   IEEE Transactions on Quantum Engineering, vol. 6, pp. 1-17.
-   <br>DOI: [10.1109/TQE.2024.3521442](https://doi.org/10.1109/TQE.2024.3521442)
-   <br> <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+  **C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms**,
+  IEEE Transactions on Quantum Engineering, vol. 6, pp. 1-17.
+  <br>DOI: [10.1109/TQE.2024.3521442](https://doi.org/10.1109/TQE.2024.3521442)
+  <br> <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
-   **Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines**,
-   IEEE Computer Architecture Letters, Vol. 23, Num. 01, pp. 9-12.
-   <br>DOI: [10.1109/LCA.2023.3322700](https://doi.ieeecomputersociety.org/10.1109/LCA.2023.3322700)
-   <br> <span style="color: red; "> (CAL 2023) </span> [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
+  **Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines**,
+  IEEE Computer Architecture Letters, Vol. 23, Num. 01, pp. 9-12.
+  <br>DOI: [10.1109/LCA.2023.3322700](https://doi.ieeecomputersociety.org/10.1109/LCA.2023.3322700)
+  <br> <span style="color: red; "> (CAL 2023) </span> [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
 
   1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
-   **Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook**,
-   Nano Futures, Vol. 7, Num. 3, pp. 032003.
-   <br>DOI: [10.1088/2399-1984/aceba6](https://iopscience.iop.org/article/10.1088/2399-1984/aceba6)
-   <br> <span style="color: red; "> (Nano Futures 2023) </span> [[arXiv]](https://arxiv.org/abs/2303.00054)
-
-
+  **Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook**,
+  Nano Futures, Vol. 7, Num. 3, pp. 032003.
+  <br>DOI: [10.1088/2399-1984/aceba6](https://iopscience.iop.org/article/10.1088/2399-1984/aceba6)
+  <br> <span style="color: red; "> (Nano Futures 2023) </span> [[arXiv]](https://arxiv.org/abs/2303.00054)
 
 
 ## Talks and Posters
@@ -163,7 +161,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br><span style="color: red; "> (AQIS 2025 poster) </span>
 
   1. Takumi Kobori, Yasunari Suzuki, <u>Yosuke Ueno</u>, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga,
-   **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
+  **LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**,
   4th Quantum Computing Theory in Practice Conference.
   <br><span style="color: red; "> (QCTiP 2025 poster) </span>
   [[arXiv]](https://arxiv.org/abs/2412.20486)
@@ -180,15 +178,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br><span style="color: red; "> (AQIS 2024 poster) </span>
 
   1. <u>Yosuke Ueno</u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
-   **SFQ counter-based precomputation for large-scale cryogenic VQE machines**,
-   Work in progress poster session in the 61st Design Automation Conference.
-   <br><span style="color: red; "> (DAC 2024 WIP poster) </span>
-   [[arXiv]](https://arxiv.org/abs/2403.00363)
+  **SFQ counter-based precomputation for large-scale cryogenic VQE machines**,
+  Work in progress poster session in the 61st Design Automation Conference.
+  <br><span style="color: red; "> (DAC 2024 WIP poster) </span>
+  [[arXiv]](https://arxiv.org/abs/2403.00363)
 
   1. <u>Yosuke Ueno</u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
-   **Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA**,
-   5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems, 2023. [[slide]](/files/QCCC2023_presentation_ueno_share.pdf)
-   <br><span style="color: red; "> (QCCC 2023 talk) </span>
+  **Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA**,
+  5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems, 2023. [[slide]](/files/QCCC2023_presentation_ueno_share.pdf)
+  <br><span style="color: red; "> (QCCC 2023 talk) </span>
 
   1. Francesco Battistel, Muhammad Usman, Christopher Chamberland, Swamit Tannu, Ramon Overwater, Fabio Sebastiano, <u>Yosuke Ueno</u>, Luka Skoric, Jordy Gloudemans, Damaz de Jong, Wouter Vlothuizen, Jules van Oven, Cornelis Christiaan Bultink,
   **Real-Time Decoding for Fault-Tolerant Quantum Computing: Towards higher decoding speed and lower communication latency**,
@@ -196,9 +194,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br><span style="color: red; "> (APS 2023 talk) </span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi,
-   **Quantum Error Correction with a Superconducting Decoder**,
-   2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems, 2020.
-   <br><span style="color: red; "> (QCCC 2020 talk) </span>
+  **Quantum Error Correction with a Superconducting Decoder**,
+  2nd Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems, 2020.
+  <br><span style="color: red; "> (QCCC 2020 talk) </span>
 
   1. <u>Yosuke Ueno</u>, Masaaki Kondo,
   **Neuromorphic Graph Processing for Minimum Weight Perfect Matching**,
@@ -323,7 +321,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>上野洋典</u>, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
   **超伝導量子計算機のシステムレベル最適化に向けて 〜QAOAを対象とした場合〜**,
-   xSIG (Cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming), 2023. （ポスター）
+  xSIG (Cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming), 2023. （ポスター）
 
   1. 多賀直史, <u>上野洋典</u>, 近藤正章,
   **量子ビットの誤り率の偏りを考慮したニューラルネットワークによる量子誤り訂正手法の検討**,
@@ -331,22 +329,21 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. 廖望, 鈴木泰成, 谷本輝夫, <u>上野洋典</u>, 徳永裕己,
   **WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code**,
-   第7回情報処理学会量子ソフトウェア研究会, 2022.
+  第7回情報処理学会量子ソフトウェア研究会, 2022.
 
   1. 富田祐永, <u>上野洋典</u>, 谷本輝夫, 田中雅光, 井上弘士, 中村宏,
   **通信量に着目した QAOA 向け極低温 NISQ コンピューティングのアーキテクチャ検討**,
-   第242回情報処理学会システム・アーキテクチャ研究会, 2022.
+  第242回情報処理学会システム・アーキテクチャ研究会, 2022.
 
   1. 小畠晟裕, <u>上野洋典</u>, 近藤正章,
   **ニューラルネットワークを用いた量子誤り訂正手法の改良の検討**,
-   第240回情報処理学会システム・アーキテクチャ研究会, 2022.
+  第240回情報処理学会システム・アーキテクチャ研究会, 2022.
 
   1. <u>上野洋典</u>, 近藤正章, 田中雅光, 鈴木泰成, 田渕豊,
   **超伝導回路を用いた量子誤り訂正向けオンライン復号器の提案**,
-   第2回情報処理学会量子ソフトウェア研究会, 2021.
+  第2回情報処理学会量子ソフトウェア研究会, 2021.
   <br><span style="color: green; ">第2回情報処理学会量子ソフトウェア研究会 優秀発表賞
-  <br>2021年度情報処理学会 コンピュータサイエンス領域奨励賞
-  </span>
+  <br>2021年度情報処理学会 コンピュータサイエンス領域奨励賞</span>
 
   1. 水野太資, <u>上野洋典</u>, 近藤正章,
   **二値化ニューラルネットワークを用いた量子誤り訂正の検討**,
@@ -370,15 +367,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
   1. <u>上野洋典</u>, 近藤正章,
   **画像認識における効率的な転移学習のための学習モデル選択手法の提案**,
-   xSIG (Cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming), 2019.
+  xSIG (Cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming), 2019.
 
   1. <u>上野洋典</u>, 近藤正章,
   **効率的な転移学習のための学習モデル構築およびモデル選択手法**,
-   第223回情報処理学会 システム・アーキテクチャ研究会, 2018.
+  第223回情報処理学会 システム・アーキテクチャ研究会, 2018.
 
   1. <u>上野洋典</u>, 東耕平, 近藤正章,
   **画像認識における効率的な転移学習のための学習モデル選択手法の検討**,
-   第220回情報処理学会システム・アーキテクチャ研究会, 2017.
+  第220回情報処理学会システム・アーキテクチャ研究会, 2017.
 
 
 ## Lectures
