@@ -315,7 +315,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   1. <u>上野洋典</u>, 今村智史, 富田祐永, 谷本輝夫, 田中雅光, 田渕豊, 井上弘士, 中村宏,
   **変分量子アルゴリズム向け極低温SFQアーキテクチャ**,
   第249回情報処理学会システム・アーキテクチャ研究会, 2024. [[資料]](/files/HotSPA2024_ueno.pdf)
-  <br><span style="color: green; ">2024年度電子情報通信学会 CPSY研究会優秀発表賞
+  <br><span style="color: green; ">2024年度電子情報通信学会 CPSY研究会優秀若手発表賞
   <br>2025年度情報処理学会 コンピュータサイエンス領域奨励賞
   </span>
 
