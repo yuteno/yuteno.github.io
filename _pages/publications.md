@@ -24,7 +24,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   arXiv preprint arXiv:2603.01628, 2026. [[arXiv]](https://arxiv.org/abs/2603.01628)
 
   1. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, <u>Yosuke Ueno</u>, Ilkwon Byun, Koji Inoue, Teruo Tanimoto,
-  **Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing**,
+  **Accelerating BP-based decoders for QLDPC Codes with Local Syndrome-Based Preprocessing**,
   arXiv preprint arXiv:2509.01892, 2025. [[arXiv]](https://arxiv.org/abs/2509.01892)
 
   1. Daisuke Sakuma, Tomoki Tsuno, Hikaru Shimizu, Yuki Kurosawa, Monet Tokuyama Friedrich, Kentaro Teramoto, Amin Taherkhani, Andrew Todd, <u>Yosuke Ueno</u>, Michal Hajdušek, Rikizo Ikuta, Rodney Van Meter, Toshihiko Sasaki, Shota Nagayama,
@@ -53,7 +53,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   <br><span style="color: red; ">[acceptance rate: 220/842=25.6%]</span>
 
   1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki, Hiroshi Nakamura,
-  **Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code**
+  **Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code**,
   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE), pp. 702-703, 2026.
   <br><span style="color: red; "> (QCE 2026 poster) </span>
 
@@ -108,32 +108,32 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## Journal Publications
   1. Koji Inoue, Ilkwon Byun, Masamitsu Tanaka, <u>Yosuke Ueno</u>, Naoki Takeuchi, Satoshi Kawakami, Olivia Chen, Dongmoon Min, Teruo Tanimoto, Takatsugu Ono, Hiroshi Nakamura, Jangwoo Kim,
   **Toward Ultra-High-Speed, Ultra-Low-Power Cryogenic Superconductor Computing**,
-  IEEE Computer, vol. 59 (2), pp. 142-149.
+  IEEE Computer, Vol. 59 (2), pp. 142-149.
   <br>DOI: [10.1109/MC.2025.3636343](https://doi.org/10.1109/MC.2025.3636343)
   <br> <span style="color: red; "> (IEEE Computer 2026) </span>
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
-  **C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms**,
-  IEEE Transactions on Quantum Engineering, vol. 6, pp. 1-17.
+  **C3-VQA: Cryogenic Counter-Based Coprocessor for Variational Quantum Algorithms**,
+  IEEE Transactions on Quantum Engineering, Vol. 6, pp. 1-17.
   <br>DOI: [10.1109/TQE.2024.3521442](https://doi.org/10.1109/TQE.2024.3521442)
-  <br> <span style="color: red; "> (TQE 2024) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
+  <br> <span style="color: red; "> (TQE 2025) </span> [[arXiv]](https://arxiv.org/abs/2409.07847)
 
   1. <u>Yosuke Ueno<sup>1</sup></u>, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
   **Inter-temperature Bandwidth Reduction in Cryogenic QAOA Machines**,
-  IEEE Computer Architecture Letters, Vol. 23, Num. 01, pp. 9-12.
+  IEEE Computer Architecture Letters, Vol. 23, No. 1, pp. 9-12.
   <br>DOI: [10.1109/LCA.2023.3322700](https://doi.ieeecomputersociety.org/10.1109/LCA.2023.3322700)
-  <br> <span style="color: red; "> (CAL 2023) </span> [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
+  <br> <span style="color: red; "> (CAL 2024) </span> [[poster]](/files/xSIG_poster.pdf) [[arXiv]](https://arxiv.org/abs/2310.01630)
 
   1. Francesco Battistel, Christopher Chamberland, Kauser Johar, Ramon W. J. Overwater, Fabio Sebastiano, Luka Skoric, <u>Yosuke Ueno</u>, Muhammad Usman,
   **Real-Time Decoding for Fault-Tolerant Quantum Computing: Progress, Challenges and Outlook**,
-  Nano Futures, Vol. 7, Num. 3, pp. 032003.
+  Nano Futures, Vol. 7, No. 3, 032003.
   <br>DOI: [10.1088/2399-1984/aceba6](https://iopscience.iop.org/article/10.1088/2399-1984/aceba6)
   <br> <span style="color: red; "> (Nano Futures 2023) </span> [[arXiv]](https://arxiv.org/abs/2303.00054)
 
 
 ## Talks and Posters
   1. Shota Ikari, Yuga Hirai, <u>Yosuke Ueno</u>, Yasunari Suzuki, Hiroshi Nakamura,
-  **Direct Implementation of the Logical C Gate in the Surface Code**
+  **Direct Implementation of the Logical C Gate in the Surface Code**,
   The International Symposium on Quantum Science, Technology and Innovation, 2026.
   <br><span style="color: red; "> (QI 2026 poster) </span>
 
