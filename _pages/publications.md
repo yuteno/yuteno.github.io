@@ -40,6 +40,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   arXiv preprint arXiv:2208.05758, 2022. [[arXiv]](https://arxiv.org/abs/2208.05758)
 
 ## International Conference Proceedings
+  1. Kosuke Takayama, Akihito Soeda, Yasunari Suzuki, Ilkwon Byun, <u>Yosuke Ueno</u>, Masao Hirokawa, Teruo Tanimoto,
+  **Error-Capped Gate Scheduling for Parallelism-Induced Errors in Superconducting Quantum Processors**,
+  In Proceedings of the 30th Design, Automation & Test in Europe Conference, 2027. (To appear)
+  <br><span style="color: red; "> (DATE 2027) </span>
+  <br><span style="color: red; ">[acceptance rate: 492/2149=22.4%]</span>
+
   1. Shota Ikari, Yuga Hirai, Yasunari Suzuki, Hiroshi Nakamura, <u>Yosuke Ueno<sup>*</sup></u>,
   **PACE: Enabling Fast Transversal CNOTs through Decoder-Aware Co-Design on Surface Code**,
   In Proceedings of 33rd IEEE International Symposium on High-Performance Computer Architecture, 2027. (To appear)
